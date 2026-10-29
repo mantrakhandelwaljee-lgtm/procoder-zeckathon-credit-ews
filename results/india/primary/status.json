@@ -1,0 +1,8 @@
+{
+  "status": "not_run",
+  "reason": "Approved full population and publication-verified accounts not yet supplied; draft candidates are excluded.",
+  "required_inputs": [
+    "data/curated/approved_population.csv",
+    "data/curated/approved_accounts.csv"
+  ]
+}

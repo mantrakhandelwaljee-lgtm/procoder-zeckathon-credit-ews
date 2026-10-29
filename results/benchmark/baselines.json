@@ -1,0 +1,24 @@
+{
+  "altman_z_double_prime": {
+    "average_precision": 0.2742788314553702,
+    "pr_auc_trapezoidal": 0.2703639637119375,
+    "top5": {
+      "tp": 17,
+      "fp": 41,
+      "fn": 64,
+      "tn": 1048,
+      "cost": 1321,
+      "recall": 0.20987654320987653,
+      "precision": 0.29310344827586204,
+      "alerts": 58
+    },
+    "holdout_rows_with_imputed_formula_input": 4,
+    "missingness_policy": "Development-only medians; raw formula otherwise; no Indian applicability implied."
+  },
+  "random_top5_expected": {
+    "alerts": 58,
+    "expected_tp": 4.015384615384615,
+    "expected_recall": 0.04957264957264957,
+    "expected_cost": 1593.676923076923
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "document_id": "AXIS_2014_jan_payment",
+    "source_url": "https://www.axistrustee.in/pdf/Non-Compliance-with-the-Terms-Jan-14.pdf",
+    "observation_asof": "2014-01-16",
+    "retrieved_at": "2026-10-29",
+    "review_method": "primary_document_search_index_excerpt",
+    "local_original_status": "fetch_rejected_non_PDF",
+    "short_excerpt": "Non Payment of Quaterly Interest due on December 31, 2013",
+    "finding": "The500crore programme entry records missed quarterly interest. The separate105crore entry records Jan1,2014interest failure and later receipt; exact cure date not stated.",
+    "complete_render_review": false
+  },
+  {
+    "document_id": "AXIS_2014_feb_cure",
+    "source_url": "https://www.axistrustee.in/pdf/ATSL-Non-Compliance-with-terms-of-Issue-Feb-14.pdf",
+    "observation_asof": "2014-02-26",
+    "retrieved_at": "2026-10-29",
+    "review_method": "primary_document_search_index_excerpt",
+    "local_original_status": "fetch_rejected_non_PDF",
+    "short_excerpt": "Debenture Holders have received the due payment.",
+    "finding": "The500crore programme entry retains Dec31,2013due date and reports receipt of that payment. Exact bank settlement date and value date unavailable.",
+    "complete_render_review": false
+  }
+]

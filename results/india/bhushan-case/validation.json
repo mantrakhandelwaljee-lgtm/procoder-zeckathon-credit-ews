@@ -1,0 +1,4 @@
+{
+  "current_validation": "results/release-validation.json",
+  "scope": "Shared pipeline tests and notebook execution; historical evidence limitations remain in status.json."
+}

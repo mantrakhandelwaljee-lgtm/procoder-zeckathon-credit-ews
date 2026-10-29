@@ -1,0 +1,5 @@
+entity_id,source_document_id,X1,X2,X3,X4,X6,X7,X8,X9,X20,X23,X44,X46,model_score,strict_eligible,missing_inputs
+BHUSHAN,BHUSHAN_2011_annual,0.039777406430494065,0.7658877178958896,,,,,0.30417615899398737,0.2765376247359462,166.0525786094662,0.14384084794420213,,,,False,current_assets;current_liabilities;retained_earnings_full_mapping;current_trade_receivables_mapping;EBIT_harmonisation
+JSW,JSW_2011_annual,0.037992459039048423,0.6368546650571313,,,,,0.5621959112789642,,,,,,,False,current_assets;current_liabilities;retained_earnings_full_mapping;current_trade_receivables_mapping;EBIT_harmonisation;operating_revenue_harmonisation
+TATASTEEL,TATASTEEL_2011_annual,0.06630116485342752,0.7197417331780175,,,,,0.3647099095739876,0.8765158528212439,73.93626879024315,0.07564171787654927,,,,False,current_assets;current_liabilities;retained_earnings_full_mapping;current_trade_receivables_mapping;EBIT_harmonisation
+SAIL,SAIL_2011_annual,0.06423226125935012,0.5184047567807285,,,,,0.9286716232949345,,,,,,,False,current_assets;current_liabilities;retained_earnings_full_mapping;current_trade_receivables_mapping;EBIT_harmonisation;operating_revenue_harmonisation

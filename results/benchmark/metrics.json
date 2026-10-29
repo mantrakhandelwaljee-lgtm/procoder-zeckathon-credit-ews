@@ -1,0 +1,117 @@
+{
+  "dataset": "UCI Polish Companies Bankruptcy / 5year.arff / 1-year horizon",
+  "source": "https://archive.ics.uci.edu/dataset/365/polish+companies+bankruptcy+data",
+  "protocol_version": "2: grouped on deployed 12-feature vectors in hold-out, selection and calibration",
+  "seed": 271828,
+  "features": {
+    "X1": "net_income / total_assets",
+    "X2": "total_liabilities / total_assets",
+    "X3": "(current_assets - current_liabilities) / total_assets",
+    "X4": "current_assets / current_liabilities",
+    "X6": "retained_earnings / total_assets",
+    "X7": "ebit / total_assets",
+    "X8": "equity / total_liabilities",
+    "X9": "sales / total_assets",
+    "X20": "inventory * 365 / sales",
+    "X23": "net_income / sales",
+    "X44": "receivables * 365 / sales",
+    "X46": "(current_assets - inventory) / current_liabilities"
+  },
+  "data_audit": {
+    "raw_rows": 5910,
+    "raw_positives": 410,
+    "exact_duplicate_full_rows": 60,
+    "conflicting_feature_groups": 0,
+    "clean_rows": 5850,
+    "clean_positives": 408,
+    "clean_prevalence": 0.06974358974358974,
+    "archive_sha256": "17377929aa0b204bbf957e56462cf827c19fe4e2ce89f27dfbc77f9ea2bb16c9",
+    "deployed_feature_duplicate_rows": 42,
+    "deployed_feature_groups_crossing_holdout": 0
+  },
+  "development_rows": 4680,
+  "development_positives": 327,
+  "selection_metric": "development out-of-fold average precision; cost tie-break",
+  "selected_config": {
+    "kind": "hist_boost",
+    "balanced": false,
+    "depth": 5
+  },
+  "calibration": "nested 3-fold sigmoid; final 3-fold ensemble on development",
+  "development_selected_policy": {
+    "tp": 113,
+    "fp": 120,
+    "fn": 214,
+    "tn": 4233,
+    "cost": 4400,
+    "recall": 0.345565749235474,
+    "precision": 0.48497854077253216,
+    "alerts": 233,
+    "k": 233,
+    "threshold": 0.2841867312968691
+  },
+  "holdout": {
+    "sample_count": 1170,
+    "positive_count": 81,
+    "average_precision": 0.39758610841518643,
+    "pr_auc_trapezoidal": 0.39335469516033084,
+    "roc_auc": 0.8511376390164269,
+    "brier_score": 0.05134397607469396,
+    "prevalence": 0.06923076923076923,
+    "top5": {
+      "tp": 29,
+      "fp": 29,
+      "fn": 52,
+      "tn": 1060,
+      "cost": 1069,
+      "recall": 0.35802469135802467,
+      "precision": 0.5,
+      "alerts": 58
+    },
+    "development_selected_threshold_with_cap": {
+      "tp": 29,
+      "fp": 29,
+      "fn": 52,
+      "tn": 1060,
+      "cost": 1069,
+      "recall": 0.35802469135802467,
+      "precision": 0.5,
+      "alerts": 58
+    },
+    "theoretical_1_over_21_with_cap": {
+      "tp": 29,
+      "fp": 29,
+      "fn": 52,
+      "tn": 1060,
+      "cost": 1069,
+      "recall": 0.35802469135802467,
+      "precision": 0.5,
+      "alerts": 58
+    },
+    "no_alert": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 81,
+      "tn": 1089,
+      "cost": 1620,
+      "recall": 0.0,
+      "precision": null,
+      "alerts": 0
+    },
+    "ap_bootstrap_95_interval": [
+      0.30940647819491085,
+      0.5086474061622239
+    ],
+    "top5_recall_bootstrap_95_interval": [
+      0.2839506172839506,
+      0.4444444444444444
+    ]
+  },
+  "limitations": [
+    "Anonymous records: calendar-time and issuer-disjoint validation cannot be established.",
+    "Exact-feature duplicates grouped; unknown related observations may remain.",
+    "Bootstrap intervals are conditional on this dataset and do not capture issuer clustering or model selection.",
+    "Transferred Indian scores are not calibrated Indian probabilities.",
+    "No claim of Indian recall follows from this benchmark."
+  ]
+}

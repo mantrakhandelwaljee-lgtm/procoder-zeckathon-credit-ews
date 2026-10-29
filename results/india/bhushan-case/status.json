@@ -1,0 +1,20 @@
+{
+  "status": "case_dossier_completed_with_material_unresolved_evidence",
+  "numeric_examples": 9,
+  "reviewed_issuers": 4,
+  "first_default_status": "earliest_documented_not_exhaustively_established",
+  "primary_replay_status": "withheld",
+  "strict_recall_4q": null,
+  "strict_recall_8q": null,
+  "formal_capacity_slots": 0,
+  "assumptions": [
+    "AGM report circulation is sensitivity only; no verified historical public timestamp.",
+    "Retained earnings is a disclosed core proxy; classification approval pending.",
+    "Peers remain provisional; historical nondefault follow-up not certified."
+  ],
+  "main_finding": "Frozen FY2012 model ranks BHUSHAN 1 of 4; no model tuning or success claim.",
+  "downloaded_additional_sources": 27,
+  "failed_additional_routes": 9,
+  "source_integrity_checked": 27,
+  "source_integrity_not_cached": 0
+}

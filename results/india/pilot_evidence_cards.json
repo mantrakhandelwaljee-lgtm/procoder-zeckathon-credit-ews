@@ -1,0 +1,370 @@
+[
+  {
+    "entity_id": "ASHOKA",
+    "period_end": "2016-03-31",
+    "source_document_id": "ASHOKA_2016_annual",
+    "source_url": "https://www.bseindia.com/bseplus/AnnualReport/533271/5332710316.pdf",
+    "score": 0.06484862731839114,
+    "score_type": "transferred_Polish_risk_score_not_calibrated_Indian_PD",
+    "historical_use_status": "excluded_from_primary_backtest_pending_publication_verification",
+    "shap_base_value": 0.053503379897771715,
+    "drivers": [
+      {
+        "feature": "X9",
+        "label": "Sales / assets",
+        "value": 0.16987768619828608,
+        "score_contribution": 0.015076884932396558,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Review asset utilization against comparable businesses and project maturity.",
+        "source_document_id": "ASHOKA_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      },
+      {
+        "feature": "X6",
+        "label": "Retained earnings / assets",
+        "value": 0.04544167295384292,
+        "score_contribution": 0.014185620251582565,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Verify earned-reserve classifications and the buffer against further losses.",
+        "source_document_id": "ASHOKA_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      },
+      {
+        "feature": "X2",
+        "label": "Liabilities / assets",
+        "value": 0.8461195671641796,
+        "score_contribution": 0.01326320596945317,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Review funding dependence, creditor protection and upcoming refinancing.",
+        "source_document_id": "ASHOKA_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      }
+    ],
+    "altman_z_double_prime": {
+      "score": 0.6405772437963939,
+      "components": {
+        "working_capital_assets": 0.018544514068769054,
+        "retained_earnings_assets": 0.04544167295384292,
+        "ebit_assets": 0.03275367858694492,
+        "book_equity_liabilities": 0.1435053881633059
+      },
+      "missing": [],
+      "variant": "z_double_prime",
+      "interpretation": "Industrial/non-financial screen; not a calibrated Indian default probability."
+    },
+    "beneish_m": {
+      "score": null,
+      "components": {},
+      "missing": [
+        "current.cogs",
+        "current.sga",
+        "prior.cogs",
+        "prior.sga",
+        "current.income_continuing_operations"
+      ],
+      "specification": "Beneish-8-1999"
+    },
+    "piotroski_f": {
+      "score": null,
+      "components": {
+        "positive_roa": null,
+        "positive_cfo": 1,
+        "improving_roa": null,
+        "cash_above_earnings": null,
+        "lower_leverage": null,
+        "higher_liquidity": 1,
+        "no_equity_issue": null,
+        "higher_gross_margin": null,
+        "higher_asset_turnover": null
+      },
+      "missing": [
+        "positive_roa",
+        "improving_roa",
+        "cash_above_earnings",
+        "lower_leverage",
+        "no_equity_issue",
+        "higher_gross_margin",
+        "higher_asset_turnover"
+      ],
+      "specification": "Piotroski-2000-beginning-assets"
+    },
+    "missing_screen_context": "COGS, SG&A, actual issuance and older beginning assets are not fully verified; incomplete scores remain null.",
+    "outside_training_clip_range": 0
+  },
+  {
+    "entity_id": "IRB",
+    "period_end": "2016-03-31",
+    "source_document_id": "IRB_2016_annual",
+    "source_url": "https://www.bseindia.com/bseplus/AnnualReport/532947/5329470316.pdf",
+    "score": 0.057869450505685295,
+    "score_type": "transferred_Polish_risk_score_not_calibrated_Indian_PD",
+    "historical_use_status": "excluded_from_primary_backtest_pending_publication_verification",
+    "shap_base_value": 0.053503379897771715,
+    "drivers": [
+      {
+        "feature": "X9",
+        "label": "Sales / assets",
+        "value": 0.12162401301240308,
+        "score_contribution": 0.012607060088304542,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Review asset utilization against comparable businesses and project maturity.",
+        "source_document_id": "IRB_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      },
+      {
+        "feature": "X4",
+        "label": "Current ratio",
+        "value": 0.7907874638796571,
+        "score_contribution": 0.011661028452965232,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Check accessible cash, restricted balances and liability maturities.",
+        "source_document_id": "IRB_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      },
+      {
+        "feature": "X46",
+        "label": "Quick ratio",
+        "value": 0.6955579343506026,
+        "score_contribution": 0.009629140263368075,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Assess readily realizable assets against short-term obligations.",
+        "source_document_id": "IRB_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      }
+    ],
+    "altman_z_double_prime": {
+      "score": 0.5652906566109626,
+      "components": {
+        "working_capital_assets": -0.016085443737535617,
+        "retained_earnings_assets": 0.06973133499610056,
+        "ebit_assets": 0.04578371739658495,
+        "book_equity_liabilities": 0.1293527947970072
+      },
+      "missing": [],
+      "variant": "z_double_prime",
+      "interpretation": "Industrial/non-financial screen; not a calibrated Indian default probability."
+    },
+    "beneish_m": {
+      "score": null,
+      "components": {},
+      "missing": [
+        "current.cogs",
+        "current.sga",
+        "prior.cogs",
+        "prior.sga",
+        "current.income_continuing_operations"
+      ],
+      "specification": "Beneish-8-1999"
+    },
+    "piotroski_f": {
+      "score": null,
+      "components": {
+        "positive_roa": null,
+        "positive_cfo": 1,
+        "improving_roa": null,
+        "cash_above_earnings": null,
+        "lower_leverage": null,
+        "higher_liquidity": 0,
+        "no_equity_issue": null,
+        "higher_gross_margin": null,
+        "higher_asset_turnover": null
+      },
+      "missing": [
+        "positive_roa",
+        "improving_roa",
+        "cash_above_earnings",
+        "lower_leverage",
+        "no_equity_issue",
+        "higher_gross_margin",
+        "higher_asset_turnover"
+      ],
+      "specification": "Piotroski-2000-beginning-assets"
+    },
+    "missing_screen_context": "COGS, SG&A, actual issuance and older beginning assets are not fully verified; incomplete scores remain null.",
+    "outside_training_clip_range": 0
+  },
+  {
+    "entity_id": "ITNL",
+    "period_end": "2016-03-31",
+    "source_document_id": "ITNL_2016_annual",
+    "source_url": "https://www.bseindia.com/bseplus/AnnualReport/533177/5331770316.pdf",
+    "score": 0.10344742496194687,
+    "score_type": "transferred_Polish_risk_score_not_calibrated_Indian_PD",
+    "historical_use_status": "excluded_from_primary_backtest_pending_publication_verification",
+    "shap_base_value": 0.053503379897771715,
+    "drivers": [
+      {
+        "feature": "X6",
+        "label": "Retained earnings / assets",
+        "value": 0.059723144495510416,
+        "score_contribution": 0.03276784668125786,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Verify earned-reserve classifications and the buffer against further losses.",
+        "source_document_id": "ITNL_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      },
+      {
+        "feature": "X9",
+        "label": "Sales / assets",
+        "value": 0.2183629287271607,
+        "score_contribution": 0.024927471756284555,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Review asset utilization against comparable businesses and project maturity.",
+        "source_document_id": "ITNL_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      },
+      {
+        "feature": "X20",
+        "label": "Inventory days relative to sales",
+        "value": 3.8404594017999,
+        "score_contribution": 0.016888757575715025,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Check stock realization, obsolescence and sector-specific inventory needs.",
+        "source_document_id": "ITNL_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      }
+    ],
+    "altman_z_double_prime": {
+      "score": 0.6168388450625113,
+      "components": {
+        "working_capital_assets": -0.05069536249722216,
+        "retained_earnings_assets": 0.059723144495510416,
+        "ebit_assets": 0.07821549829577988,
+        "book_equity_liabilities": 0.21818554613455604
+      },
+      "missing": [],
+      "variant": "z_double_prime",
+      "interpretation": "Industrial/non-financial screen; not a calibrated Indian default probability."
+    },
+    "beneish_m": {
+      "score": null,
+      "components": {},
+      "missing": [
+        "current.cogs",
+        "current.sga",
+        "prior.cogs",
+        "prior.sga",
+        "current.income_continuing_operations"
+      ],
+      "specification": "Beneish-8-1999"
+    },
+    "piotroski_f": {
+      "score": null,
+      "components": {
+        "positive_roa": null,
+        "positive_cfo": 1,
+        "improving_roa": null,
+        "cash_above_earnings": null,
+        "lower_leverage": null,
+        "higher_liquidity": 1,
+        "no_equity_issue": null,
+        "higher_gross_margin": null,
+        "higher_asset_turnover": null
+      },
+      "missing": [
+        "positive_roa",
+        "improving_roa",
+        "cash_above_earnings",
+        "lower_leverage",
+        "no_equity_issue",
+        "higher_gross_margin",
+        "higher_asset_turnover"
+      ],
+      "specification": "Piotroski-2000-beginning-assets"
+    },
+    "missing_screen_context": "COGS, SG&A, actual issuance and older beginning assets are not fully verified; incomplete scores remain null.",
+    "outside_training_clip_range": 0
+  },
+  {
+    "entity_id": "SADBHAV",
+    "period_end": "2016-03-31",
+    "source_document_id": "SADBHAV_2016_annual",
+    "source_url": "https://www.bseindia.com/bseplus/AnnualReport/532710/5327100316.pdf",
+    "score": 0.06390216960855304,
+    "score_type": "transferred_Polish_risk_score_not_calibrated_Indian_PD",
+    "historical_use_status": "excluded_from_primary_backtest_pending_publication_verification",
+    "shap_base_value": 0.053503379897771715,
+    "drivers": [
+      {
+        "feature": "X6",
+        "label": "Retained earnings / assets",
+        "value": 0.011704305605064781,
+        "score_contribution": 0.02318281188386692,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Verify earned-reserve classifications and the buffer against further losses.",
+        "source_document_id": "SADBHAV_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      },
+      {
+        "feature": "X9",
+        "label": "Sales / assets",
+        "value": 0.24527165829553993,
+        "score_contribution": 0.017807592108874882,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Review asset utilization against comparable businesses and project maturity.",
+        "source_document_id": "SADBHAV_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      },
+      {
+        "feature": "X4",
+        "label": "Current ratio",
+        "value": 0.9374747772292472,
+        "score_contribution": 0.012507064460766415,
+        "direction": "raises",
+        "credit_interpretation": "This observed value raises the model score relative to the Polish background. Check accessible cash, restricted balances and liability maturities.",
+        "source_document_id": "SADBHAV_2016_annual",
+        "caution": "Association relative to Polish training background; sector/domain effects may dominate."
+      }
+    ],
+    "altman_z_double_prime": {
+      "score": 0.3829562752806812,
+      "components": {
+        "working_capital_assets": -0.007808824793950781,
+        "retained_earnings_assets": 0.011704305605064781,
+        "ebit_assets": 0.03813243171040388,
+        "book_equity_liabilities": 0.13312017958340294
+      },
+      "missing": [],
+      "variant": "z_double_prime",
+      "interpretation": "Industrial/non-financial screen; not a calibrated Indian default probability."
+    },
+    "beneish_m": {
+      "score": null,
+      "components": {},
+      "missing": [
+        "current.cogs",
+        "current.sga",
+        "prior.cogs",
+        "prior.sga",
+        "current.income_continuing_operations"
+      ],
+      "specification": "Beneish-8-1999"
+    },
+    "piotroski_f": {
+      "score": null,
+      "components": {
+        "positive_roa": null,
+        "positive_cfo": 1,
+        "improving_roa": null,
+        "cash_above_earnings": null,
+        "lower_leverage": null,
+        "higher_liquidity": 0,
+        "no_equity_issue": null,
+        "higher_gross_margin": null,
+        "higher_asset_turnover": null
+      },
+      "missing": [
+        "positive_roa",
+        "improving_roa",
+        "cash_above_earnings",
+        "lower_leverage",
+        "no_equity_issue",
+        "higher_gross_margin",
+        "higher_asset_turnover"
+      ],
+      "specification": "Piotroski-2000-beginning-assets"
+    },
+    "missing_screen_context": "COGS, SG&A, actual issuance and older beginning assets are not fully verified; incomplete scores remain null.",
+    "outside_training_clip_range": 0
+  }
+]

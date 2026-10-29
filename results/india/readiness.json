@@ -1,0 +1,33 @@
+{
+  "status": "research_build_incomplete_for_competition_submission",
+  "benchmark_complete": true,
+  "downloaded_documents": 196,
+  "failed_document_routes": 13,
+  "core_case_candidates": 10,
+  "core_peer_candidates": 30,
+  "documented_cirp_dates": 10,
+  "documented_earlier_payment_default_cases": 5,
+  "automatically_extracted_candidate_rows": 4309,
+  "source_reviewed_issuers_all_groups": 8,
+  "source_reviewed_versions_all_groups": 21,
+  "source_version_counts_by_group": {
+    "steel_case": 9,
+    "tollroad_pilot": 8,
+    "fy2011_original": 4
+  },
+  "source_reviewed_pilot_issuers": 4,
+  "source_reviewed_pilot_records": 8,
+  "verified_historical_publication_records": 0,
+  "recall_at_5_percent_4q": null,
+  "recall_at_5_percent_8q": null,
+  "indian_expected_loss": null,
+  "remaining_requirements": [
+    "Complete source-reviewed 3-year financial panel for at least 10 cases and 30 qualified distinct controls.",
+    "Verify historical public availability before each scoring cutoff.",
+    "Resolve earlier payment defaults and interval-dated events before claiming lead times.",
+    "Complete and verify COGS, SG&A, actual issuance and prior beginning assets for M/F screens.",
+    "Verify control listing, matching and non-default outcomes over observation horizons.",
+    "Expand two signal-family coverage across the panel and obtain pre-cutoff evidence.",
+    "Run and audit primary Indian recall/cost metrics only after these gates pass."
+  ]
+}

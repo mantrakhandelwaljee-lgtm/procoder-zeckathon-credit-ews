@@ -1,0 +1,41 @@
+entity_id,name,role,downloaded_annual_reports,extraction_candidate_rows,reviewed_source_versions,reviewed_distinct_periods,strict_point_in_time_accounts,missing_gate
+BHUSHAN,Bhushan Steel,case,7,78,4,3,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+MONNET,Monnet Ispat & Energy,case,3,91,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+ALOK,Alok Industries,case,4,102,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+AMTEK,Amtek Auto,case,5,140,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+LANCO,Lanco Infratech,case,3,90,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+JAYPEE,Jaypee Infratech,case,3,85,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+JYOTI,Jyoti Structures,case,3,103,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+ELECTROSTEEL,Electrosteel Steels,case,3,40,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+ERA,Era Infra Engineering,case,2,48,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+FUTURE,Future Retail,case,4,68,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+JSW,JSW Steel,peer,7,101,3,2,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+TATASTEEL,Tata Steel,peer,7,93,3,2,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+SAIL,Steel Authority of India,peer,7,96,3,2,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+KALYANI,Kalyani Steels,peer,3,57,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+JINDALSAW,Jindal Saw,peer,3,83,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+GODAWARI,Godawari Power & Ispat,peer,3,83,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+VARDHMAN,Vardhman Textiles,peer,5,161,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+WELSPUN,Welspun India,peer,5,93,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+ARVIND,Arvind,peer,5,159,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+BHARATFORGE,Bharat Forge,peer,5,144,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+MOTHERSON,Motherson Sumi Systems,peer,5,122,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+SUNDRAM,Sundram Fasteners,peer,5,134,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+NTPC,NTPC,peer,3,92,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+TATAPOWER,Tata Power,peer,3,103,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+JSWENERGY,JSW Energy,peer,3,94,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+DLF,DLF,peer,3,75,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+OBEROI,Oberoi Realty,peer,3,79,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+SOBHA,Sobha,peer,3,109,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+KEC,KEC International,peer,3,100,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+KALPATARU,Kalpataru Power Transmission,peer,3,97,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+TECHNO,Techno Electric & Engineering (historical entity),peer,3,78,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+SSWL,Steel Strips Wheels,peer,3,40,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+APL,APL Apollo Tubes,peer,3,48,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+RATNAMANI,Ratnamani Metals & Tubes,peer,3,36,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+NCC,NCC,peer,3,109,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+ITDCEM,ITD Cementation India,peer,3,98,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+KNR,KNR Constructions,peer,3,106,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+TRENT,Trent,peer,4,72,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+SHOPPERS,Shoppers Stop,peer,4,86,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs
+VMART,V-Mart Retail,peer,4,40,0,0,0,publication_dates; annual ratio coverage; control/default qualification; complete M/F inputs

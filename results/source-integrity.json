@@ -1,0 +1,1187 @@
+{
+  "downloaded_documents": 196,
+  "cached_documents_checked": 196,
+  "hash_matches": 196,
+  "not_cached": 0,
+  "hash_mismatches": [],
+  "failed_document_routes": 13,
+  "documents": [
+    {
+      "document_id": "ALOK_2012_annual",
+      "expected_sha256": "d921d20620cfe20bef3acbb919cbe69e597b27c8fa39c818b18bd468a7d16b8d",
+      "actual_sha256": "d921d20620cfe20bef3acbb919cbe69e597b27c8fa39c818b18bd468a7d16b8d",
+      "status": "match"
+    },
+    {
+      "document_id": "ALOK_2013_annual",
+      "expected_sha256": "5739b14f41ae05fd481af284560f88c1afbd0e0cb5c383dd45b7219d51417b5f",
+      "actual_sha256": "5739b14f41ae05fd481af284560f88c1afbd0e0cb5c383dd45b7219d51417b5f",
+      "status": "match"
+    },
+    {
+      "document_id": "ALOK_2015_annual",
+      "expected_sha256": "5dfc045cf01461a7489187775fbd30e9e27f9bd96eed8daab83960fadfbf133c",
+      "actual_sha256": "5dfc045cf01461a7489187775fbd30e9e27f9bd96eed8daab83960fadfbf133c",
+      "status": "match"
+    },
+    {
+      "document_id": "ALOK_2016_annual",
+      "expected_sha256": "cdb4c82e5f3090c8e320c1836d6f86aa41f02089c2ab6b7f8cdb47d190fccfef",
+      "actual_sha256": "cdb4c82e5f3090c8e320c1836d6f86aa41f02089c2ab6b7f8cdb47d190fccfef",
+      "status": "match"
+    },
+    {
+      "document_id": "AMTEK_2012_annual",
+      "expected_sha256": "5d75faeb5e17725ddf3bae9e86da2da2b41bce9cf90f2b2601777136120b5d46",
+      "actual_sha256": "5d75faeb5e17725ddf3bae9e86da2da2b41bce9cf90f2b2601777136120b5d46",
+      "status": "match"
+    },
+    {
+      "document_id": "AMTEK_2013_annual",
+      "expected_sha256": "710476066f454d71cbbacf32f92068a1e32b30595d48219e5938bd58db51b2ea",
+      "actual_sha256": "710476066f454d71cbbacf32f92068a1e32b30595d48219e5938bd58db51b2ea",
+      "status": "match"
+    },
+    {
+      "document_id": "AMTEK_2014_annual",
+      "expected_sha256": "4fb183bca0170c5238e1e07ae19feeb468863c3f480602a0ff48d6de44b8ea71",
+      "actual_sha256": "4fb183bca0170c5238e1e07ae19feeb468863c3f480602a0ff48d6de44b8ea71",
+      "status": "match"
+    },
+    {
+      "document_id": "AMTEK_2015_annual",
+      "expected_sha256": "cb6dc1115aa98c829ac4b74b8719258f08710e7dc31fdd053fc124c78312ce6b",
+      "actual_sha256": "cb6dc1115aa98c829ac4b74b8719258f08710e7dc31fdd053fc124c78312ce6b",
+      "status": "match"
+    },
+    {
+      "document_id": "AMTEK_2016_annual",
+      "expected_sha256": "c81be1966f279e0f1c8eee5734e3f30faf34a97fe4d5f4cb53e1664f9fcca09d",
+      "actual_sha256": "c81be1966f279e0f1c8eee5734e3f30faf34a97fe4d5f4cb53e1664f9fcca09d",
+      "status": "match"
+    },
+    {
+      "document_id": "APL_2014_annual",
+      "expected_sha256": "c6754950fcea3d870c975d0190b82b9935a36c013e1cd5b77e4a237b34d0bd53",
+      "actual_sha256": "c6754950fcea3d870c975d0190b82b9935a36c013e1cd5b77e4a237b34d0bd53",
+      "status": "match"
+    },
+    {
+      "document_id": "APL_2015_annual",
+      "expected_sha256": "b2e7b31d01888b26d56f9794347d45dd091c06e1b2d68552aaef847fe7e2edf2",
+      "actual_sha256": "b2e7b31d01888b26d56f9794347d45dd091c06e1b2d68552aaef847fe7e2edf2",
+      "status": "match"
+    },
+    {
+      "document_id": "APL_2016_annual",
+      "expected_sha256": "09ae0c793198e3ebd6dc4d5d24b5b46dcf2472f4cbd7dfae4a29fc3466fe3f2a",
+      "actual_sha256": "09ae0c793198e3ebd6dc4d5d24b5b46dcf2472f4cbd7dfae4a29fc3466fe3f2a",
+      "status": "match"
+    },
+    {
+      "document_id": "ARVIND_2012_annual",
+      "expected_sha256": "b9ef5eebce692c5806704742c5d0e0919cd149385ab1f00973570830c1d9c99a",
+      "actual_sha256": "b9ef5eebce692c5806704742c5d0e0919cd149385ab1f00973570830c1d9c99a",
+      "status": "match"
+    },
+    {
+      "document_id": "ARVIND_2013_annual",
+      "expected_sha256": "663dd2a09d83cbd8017df56c2ef0f33f0aab14e609d23a5d8adfe82084a510bb",
+      "actual_sha256": "663dd2a09d83cbd8017df56c2ef0f33f0aab14e609d23a5d8adfe82084a510bb",
+      "status": "match"
+    },
+    {
+      "document_id": "ARVIND_2014_annual",
+      "expected_sha256": "ee9940419accf1f620accf2b02957d9fbe94f83be49a23821f9184c6ca553c7b",
+      "actual_sha256": "ee9940419accf1f620accf2b02957d9fbe94f83be49a23821f9184c6ca553c7b",
+      "status": "match"
+    },
+    {
+      "document_id": "ARVIND_2015_annual",
+      "expected_sha256": "e6b5840b71ee5809c90c218924881471040562cd10885597c298342b4f8f0ff3",
+      "actual_sha256": "e6b5840b71ee5809c90c218924881471040562cd10885597c298342b4f8f0ff3",
+      "status": "match"
+    },
+    {
+      "document_id": "ARVIND_2016_annual",
+      "expected_sha256": "3138b7154b4c509bdf17ae0b840d424d61268f665eb31210a8c990cf1ab2e063",
+      "actual_sha256": "3138b7154b4c509bdf17ae0b840d424d61268f665eb31210a8c990cf1ab2e063",
+      "status": "match"
+    },
+    {
+      "document_id": "ASHOKA_2014_annual",
+      "expected_sha256": "e1509dac625e0a6682debfe0f4cb21e4cb69e6bfcd5167744e4437f8025610d7",
+      "actual_sha256": "e1509dac625e0a6682debfe0f4cb21e4cb69e6bfcd5167744e4437f8025610d7",
+      "status": "match"
+    },
+    {
+      "document_id": "ASHOKA_2015_annual",
+      "expected_sha256": "e71618327dc3d018c3855ee7ee9ef6dbfc04bb0e8c6456a7c11cab0d11b293f4",
+      "actual_sha256": "e71618327dc3d018c3855ee7ee9ef6dbfc04bb0e8c6456a7c11cab0d11b293f4",
+      "status": "match"
+    },
+    {
+      "document_id": "ASHOKA_2016_annual",
+      "expected_sha256": "e0ad76f6d0e56281d241dd6effce98531f1d6d6a2b9ba462733bbf3a4d7aab7e",
+      "actual_sha256": "e0ad76f6d0e56281d241dd6effce98531f1d6d6a2b9ba462733bbf3a4d7aab7e",
+      "status": "match"
+    },
+    {
+      "document_id": "ASHOKA_2017_annual",
+      "expected_sha256": "062ea94c9bbcbf42299dc626ee748bca01877050ab6781a4a342bd763c62c106",
+      "actual_sha256": "062ea94c9bbcbf42299dc626ee748bca01877050ab6781a4a342bd763c62c106",
+      "status": "match"
+    },
+    {
+      "document_id": "BHARATFORGE_2012_annual",
+      "expected_sha256": "d79adb35e662234fb89f4d486268cf537e6cf94ebbb015d7ef8b2b19887167e1",
+      "actual_sha256": "d79adb35e662234fb89f4d486268cf537e6cf94ebbb015d7ef8b2b19887167e1",
+      "status": "match"
+    },
+    {
+      "document_id": "BHARATFORGE_2013_annual",
+      "expected_sha256": "580fcece0218ed626499fe254328d5a1d0160427d993b9d406cdefbc4cfb621a",
+      "actual_sha256": "580fcece0218ed626499fe254328d5a1d0160427d993b9d406cdefbc4cfb621a",
+      "status": "match"
+    },
+    {
+      "document_id": "BHARATFORGE_2014_annual",
+      "expected_sha256": "69f33ed723a68abe6dbcbfdfb59de0e9c97a941816c2f7152e6f122ffd225b68",
+      "actual_sha256": "69f33ed723a68abe6dbcbfdfb59de0e9c97a941816c2f7152e6f122ffd225b68",
+      "status": "match"
+    },
+    {
+      "document_id": "BHARATFORGE_2015_annual",
+      "expected_sha256": "77b7aafd1419d87eef346178b3e2a5ed38c98dd25895deb7f42e92be72c1dd1c",
+      "actual_sha256": "77b7aafd1419d87eef346178b3e2a5ed38c98dd25895deb7f42e92be72c1dd1c",
+      "status": "match"
+    },
+    {
+      "document_id": "BHARATFORGE_2016_annual",
+      "expected_sha256": "f9a531ff466046d74deac63692031ef5e77f3359122990b20b1f2efd5ff36b4f",
+      "actual_sha256": "f9a531ff466046d74deac63692031ef5e77f3359122990b20b1f2efd5ff36b4f",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2014_annual",
+      "expected_sha256": "0823ecae0f8941e805ef79df9ec4cc4fafdf0a06dc4e96d6a0b3e632b460fb05",
+      "actual_sha256": "0823ecae0f8941e805ef79df9ec4cc4fafdf0a06dc4e96d6a0b3e632b460fb05",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2015_annual",
+      "expected_sha256": "0ed517ed09ae648f9e1be23118b538cc3eda687c27ead32d1cbb10aa4df69e33",
+      "actual_sha256": "0ed517ed09ae648f9e1be23118b538cc3eda687c27ead32d1cbb10aa4df69e33",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2016_annual",
+      "expected_sha256": "9313281be7e85549720457929240bfc9d3321c9162163483956f0277f969c09a",
+      "actual_sha256": "9313281be7e85549720457929240bfc9d3321c9162163483956f0277f969c09a",
+      "status": "match"
+    },
+    {
+      "document_id": "DLF_2014_annual",
+      "expected_sha256": "0ab20d80db56dee46e3febdf493ad58750c88527675230cf2d88f6b08bf92374",
+      "actual_sha256": "0ab20d80db56dee46e3febdf493ad58750c88527675230cf2d88f6b08bf92374",
+      "status": "match"
+    },
+    {
+      "document_id": "DLF_2015_annual",
+      "expected_sha256": "76fb7ecc070e0a0a23b7b32923f4e044dabfb04849ae3fe14cdba560f2a8b26d",
+      "actual_sha256": "76fb7ecc070e0a0a23b7b32923f4e044dabfb04849ae3fe14cdba560f2a8b26d",
+      "status": "match"
+    },
+    {
+      "document_id": "DLF_2016_annual",
+      "expected_sha256": "147a8e3287aad3e1ef627cc875248ec3659060eed43b51f76af4177d0d93412f",
+      "actual_sha256": "147a8e3287aad3e1ef627cc875248ec3659060eed43b51f76af4177d0d93412f",
+      "status": "match"
+    },
+    {
+      "document_id": "ELECTROSTEEL_2014_annual",
+      "expected_sha256": "d57337d3627283ad29bc2651336ffb7935486bf2a36f4884aff88d0ed6eaf663",
+      "actual_sha256": "d57337d3627283ad29bc2651336ffb7935486bf2a36f4884aff88d0ed6eaf663",
+      "status": "match"
+    },
+    {
+      "document_id": "ELECTROSTEEL_2015_annual",
+      "expected_sha256": "cb8289800a1a24a68f432618869338556c4424a26b929664ff1342e37815d581",
+      "actual_sha256": "cb8289800a1a24a68f432618869338556c4424a26b929664ff1342e37815d581",
+      "status": "match"
+    },
+    {
+      "document_id": "ELECTROSTEEL_2016_annual",
+      "expected_sha256": "e873ee1a9209e803d6ff3fe1bd8a71d179125e9a6c85414c5d737691807310f6",
+      "actual_sha256": "e873ee1a9209e803d6ff3fe1bd8a71d179125e9a6c85414c5d737691807310f6",
+      "status": "match"
+    },
+    {
+      "document_id": "ERA_2016_annual",
+      "expected_sha256": "9e30835abc6dea20408787109cd54dbed056cd9a7b6f80beac4fe4e8797f15ed",
+      "actual_sha256": "9e30835abc6dea20408787109cd54dbed056cd9a7b6f80beac4fe4e8797f15ed",
+      "status": "match"
+    },
+    {
+      "document_id": "ERA_2017_annual",
+      "expected_sha256": "0b2c7d44162f12a554d4f308051cf2fc46ffb8d77304ca985df302efb048e929",
+      "actual_sha256": "0b2c7d44162f12a554d4f308051cf2fc46ffb8d77304ca985df302efb048e929",
+      "status": "match"
+    },
+    {
+      "document_id": "ERA_2018_event",
+      "expected_sha256": "ae67d4ac2097f98b24111e81c0ebf86514dbc06c8e17d2c3bcc2cace7909934b",
+      "actual_sha256": "ae67d4ac2097f98b24111e81c0ebf86514dbc06c8e17d2c3bcc2cace7909934b",
+      "status": "match"
+    },
+    {
+      "document_id": "FUTURE_2017_annual",
+      "expected_sha256": "e441e01d8a94cfdb642fbf372888f38e3c54cc6cd5f98159846b8f662f265aea",
+      "actual_sha256": "e441e01d8a94cfdb642fbf372888f38e3c54cc6cd5f98159846b8f662f265aea",
+      "status": "match"
+    },
+    {
+      "document_id": "FUTURE_2018_annual",
+      "expected_sha256": "f4f9e44e40e60f81bf57cd9e0a1f4f5629a6b2aa6c6f96731092eda25b7d0a24",
+      "actual_sha256": "f4f9e44e40e60f81bf57cd9e0a1f4f5629a6b2aa6c6f96731092eda25b7d0a24",
+      "status": "match"
+    },
+    {
+      "document_id": "FUTURE_2019_annual",
+      "expected_sha256": "aece1c168aeb91ac615c4011129445fca405e7887066fa4048bc40186b18ee02",
+      "actual_sha256": "aece1c168aeb91ac615c4011129445fca405e7887066fa4048bc40186b18ee02",
+      "status": "match"
+    },
+    {
+      "document_id": "FUTURE_2020_annual",
+      "expected_sha256": "32eef810ef84556cf54b0ae485907b475ada4f7a6ea3c0b5e22378e8b6f08b28",
+      "actual_sha256": "32eef810ef84556cf54b0ae485907b475ada4f7a6ea3c0b5e22378e8b6f08b28",
+      "status": "match"
+    },
+    {
+      "document_id": "FUTURE_2022_event",
+      "expected_sha256": "c68d045175a4b6922ab9c71ce3de6280ee7b5fc3c643cec18e2760116c9acae5",
+      "actual_sha256": "c68d045175a4b6922ab9c71ce3de6280ee7b5fc3c643cec18e2760116c9acae5",
+      "status": "match"
+    },
+    {
+      "document_id": "GODAWARI_2014_annual",
+      "expected_sha256": "74566c1e9e905cdfc2e9d630a9c127b637d7e781afda3d4aa928c9be76cd5c6c",
+      "actual_sha256": "74566c1e9e905cdfc2e9d630a9c127b637d7e781afda3d4aa928c9be76cd5c6c",
+      "status": "match"
+    },
+    {
+      "document_id": "GODAWARI_2015_annual",
+      "expected_sha256": "ff83aa9008ecb40f96f941a6218d793c80aaaf0f9ed00ddf9fb245ece40cb69b",
+      "actual_sha256": "ff83aa9008ecb40f96f941a6218d793c80aaaf0f9ed00ddf9fb245ece40cb69b",
+      "status": "match"
+    },
+    {
+      "document_id": "GODAWARI_2016_annual",
+      "expected_sha256": "61afbdbfa2b8731b5bba46a7788adec2538eccf067123037c60ebbbb914e38ff",
+      "actual_sha256": "61afbdbfa2b8731b5bba46a7788adec2538eccf067123037c60ebbbb914e38ff",
+      "status": "match"
+    },
+    {
+      "document_id": "HCC_2014_annual",
+      "expected_sha256": "8269a4e5fe8c8505da320e8e1546c399965d1913945bd0449d3ad560b5e79655",
+      "actual_sha256": "8269a4e5fe8c8505da320e8e1546c399965d1913945bd0449d3ad560b5e79655",
+      "status": "match"
+    },
+    {
+      "document_id": "HCC_2015_annual",
+      "expected_sha256": "d86f1536879a0bb38a188277627fa80e6a3313503c4ba2b22e3503f15a6170d7",
+      "actual_sha256": "d86f1536879a0bb38a188277627fa80e6a3313503c4ba2b22e3503f15a6170d7",
+      "status": "match"
+    },
+    {
+      "document_id": "HCC_2016_annual",
+      "expected_sha256": "2304128a4e0cd73fcdfb94c106b3de420f1e226e805e8f582169dfea09ac4c36",
+      "actual_sha256": "2304128a4e0cd73fcdfb94c106b3de420f1e226e805e8f582169dfea09ac4c36",
+      "status": "match"
+    },
+    {
+      "document_id": "ILFS_PARENT_2017_annual",
+      "expected_sha256": "179abdc32b9267c8e0bc07d74e43aef9583545b506960770cdd4d1379fa89db6",
+      "actual_sha256": "179abdc32b9267c8e0bc07d74e43aef9583545b506960770cdd4d1379fa89db6",
+      "status": "match"
+    },
+    {
+      "document_id": "IRB_2014_annual",
+      "expected_sha256": "f78ddc78e1279abe36b5c2165fa9b3f84ec8b89ed49328fdb2f8517e774d24c3",
+      "actual_sha256": "f78ddc78e1279abe36b5c2165fa9b3f84ec8b89ed49328fdb2f8517e774d24c3",
+      "status": "match"
+    },
+    {
+      "document_id": "IRB_2015_annual",
+      "expected_sha256": "5552fb30b6ea32315207a8c42f95649a493b9fca4ad006317e77dff0d3c7d97f",
+      "actual_sha256": "5552fb30b6ea32315207a8c42f95649a493b9fca4ad006317e77dff0d3c7d97f",
+      "status": "match"
+    },
+    {
+      "document_id": "IRB_2016_annual",
+      "expected_sha256": "d3d2a82e7704e50ff8baa7fb60f59445dd986bf06e71787667e26eb21b5f3d97",
+      "actual_sha256": "d3d2a82e7704e50ff8baa7fb60f59445dd986bf06e71787667e26eb21b5f3d97",
+      "status": "match"
+    },
+    {
+      "document_id": "IRB_2017_annual",
+      "expected_sha256": "c805adbee4cdb533bbe3356a2f02ed79a6a0e8219f64c33bacf60f2d6aca0392",
+      "actual_sha256": "c805adbee4cdb533bbe3356a2f02ed79a6a0e8219f64c33bacf60f2d6aca0392",
+      "status": "match"
+    },
+    {
+      "document_id": "ITDCEM_2014_annual",
+      "expected_sha256": "07291cb297b4d6c1d4db0b2a749c42ba1b6a85c26768725b01feaadbf37d4138",
+      "actual_sha256": "07291cb297b4d6c1d4db0b2a749c42ba1b6a85c26768725b01feaadbf37d4138",
+      "status": "match"
+    },
+    {
+      "document_id": "ITDCEM_2015_annual",
+      "expected_sha256": "f6bbd001527f54f3768ef108e95dd5efc773d9d63038b5b6c60a13162a8278d6",
+      "actual_sha256": "f6bbd001527f54f3768ef108e95dd5efc773d9d63038b5b6c60a13162a8278d6",
+      "status": "match"
+    },
+    {
+      "document_id": "ITDCEM_2016_annual",
+      "expected_sha256": "df63da280e79e88841c935d77845effd1186e81a96efdfdc08689c3f7a2fbe87",
+      "actual_sha256": "df63da280e79e88841c935d77845effd1186e81a96efdfdc08689c3f7a2fbe87",
+      "status": "match"
+    },
+    {
+      "document_id": "ITNL_2014_annual",
+      "expected_sha256": "a7e0550ea759973e6020755933332ff02051785487de77fff58e8c507fb2a7c8",
+      "actual_sha256": "a7e0550ea759973e6020755933332ff02051785487de77fff58e8c507fb2a7c8",
+      "status": "match"
+    },
+    {
+      "document_id": "ITNL_2015_annual",
+      "expected_sha256": "b524e35473655979ed052ae4af911a00dff67cf3c54260a957d399a7793e27e6",
+      "actual_sha256": "b524e35473655979ed052ae4af911a00dff67cf3c54260a957d399a7793e27e6",
+      "status": "match"
+    },
+    {
+      "document_id": "ITNL_2016_annual",
+      "expected_sha256": "80631c297e262f1d62003897b079d844a38cf87d83d639139d19a4baa5dd729b",
+      "actual_sha256": "80631c297e262f1d62003897b079d844a38cf87d83d639139d19a4baa5dd729b",
+      "status": "match"
+    },
+    {
+      "document_id": "ITNL_2017_annual",
+      "expected_sha256": "d001478c6a0ad13fb487a16e3a3112ff5b5cad8874d773f8bb8ef630b753e1c4",
+      "actual_sha256": "d001478c6a0ad13fb487a16e3a3112ff5b5cad8874d773f8bb8ef630b753e1c4",
+      "status": "match"
+    },
+    {
+      "document_id": "ITNL_2018_payment_event",
+      "expected_sha256": "5890ac1e63bafecebf9a690e0648322746386094728ca410c347c97353e0c73a",
+      "actual_sha256": "5890ac1e63bafecebf9a690e0648322746386094728ca410c347c97353e0c73a",
+      "status": "match"
+    },
+    {
+      "document_id": "ITNL_2018_rating",
+      "expected_sha256": "cb4bc317304ac4079aab931b005fae96898a21a0d69b0b290d1c579e95a69cfc",
+      "actual_sha256": "cb4bc317304ac4079aab931b005fae96898a21a0d69b0b290d1c579e95a69cfc",
+      "status": "match"
+    },
+    {
+      "document_id": "JAYPEE_2014_annual",
+      "expected_sha256": "44727bc9293fdcaad95a753cc411d0e447200dcdeea21f15dd003907a235d2e1",
+      "actual_sha256": "44727bc9293fdcaad95a753cc411d0e447200dcdeea21f15dd003907a235d2e1",
+      "status": "match"
+    },
+    {
+      "document_id": "JAYPEE_2015_annual",
+      "expected_sha256": "ca347d04111cbb1beab150f1745b022d2edfe2f262c0e570467399d47d12b549",
+      "actual_sha256": "ca347d04111cbb1beab150f1745b022d2edfe2f262c0e570467399d47d12b549",
+      "status": "match"
+    },
+    {
+      "document_id": "JAYPEE_2016_annual",
+      "expected_sha256": "3746692249d15f3779d279cbc076229da4a600187d2362cbbaa93f06e6a39874",
+      "actual_sha256": "3746692249d15f3779d279cbc076229da4a600187d2362cbbaa93f06e6a39874",
+      "status": "match"
+    },
+    {
+      "document_id": "JINDALSAW_2014_annual",
+      "expected_sha256": "a2ed072e2b21472fc9240f15853406d08eb48631187d5b6e9f30f6578f58f647",
+      "actual_sha256": "a2ed072e2b21472fc9240f15853406d08eb48631187d5b6e9f30f6578f58f647",
+      "status": "match"
+    },
+    {
+      "document_id": "JINDALSAW_2015_annual",
+      "expected_sha256": "41700893b33a8fe3e973bb2e1aaa1d71fe86b2bc3e6089b66f8353e4fa2796f8",
+      "actual_sha256": "41700893b33a8fe3e973bb2e1aaa1d71fe86b2bc3e6089b66f8353e4fa2796f8",
+      "status": "match"
+    },
+    {
+      "document_id": "JINDALSAW_2016_annual",
+      "expected_sha256": "9edd53acbdd6645d6e20925411ce0fd9fe273cbbbb9283983e310de92992a8d8",
+      "actual_sha256": "9edd53acbdd6645d6e20925411ce0fd9fe273cbbbb9283983e310de92992a8d8",
+      "status": "match"
+    },
+    {
+      "document_id": "JINDALSTEL_2014_annual",
+      "expected_sha256": "40ac8a5796a50f07403382c264a44edefe75e764f08577c7f128954461e24d3f",
+      "actual_sha256": "40ac8a5796a50f07403382c264a44edefe75e764f08577c7f128954461e24d3f",
+      "status": "match"
+    },
+    {
+      "document_id": "JINDALSTEL_2015_annual",
+      "expected_sha256": "7580d50c244601739a7ac77f80912580bbc65462c99b1f51081057bccf0a6c2b",
+      "actual_sha256": "7580d50c244601739a7ac77f80912580bbc65462c99b1f51081057bccf0a6c2b",
+      "status": "match"
+    },
+    {
+      "document_id": "JINDALSTEL_2016_annual",
+      "expected_sha256": "286cdc0958e01c4064ea079cc3382b9a7d63e4daedd53cf8f5f8fbff8fdd1434",
+      "actual_sha256": "286cdc0958e01c4064ea079cc3382b9a7d63e4daedd53cf8f5f8fbff8fdd1434",
+      "status": "match"
+    },
+    {
+      "document_id": "JSWENERGY_2014_annual",
+      "expected_sha256": "ac21f78cbbe99f864ec71817aef960756b25e18d2dda27190d695b65dd552d79",
+      "actual_sha256": "ac21f78cbbe99f864ec71817aef960756b25e18d2dda27190d695b65dd552d79",
+      "status": "match"
+    },
+    {
+      "document_id": "JSWENERGY_2015_annual",
+      "expected_sha256": "81682f5621f62ff3f321698d019ce727f9f8933b8e3aa7bc8d447da23ead4280",
+      "actual_sha256": "81682f5621f62ff3f321698d019ce727f9f8933b8e3aa7bc8d447da23ead4280",
+      "status": "match"
+    },
+    {
+      "document_id": "JSWENERGY_2016_annual",
+      "expected_sha256": "22074c42f148c06b9363d47cda115d9c96197264a27ce2592e11d44a0215707e",
+      "actual_sha256": "22074c42f148c06b9363d47cda115d9c96197264a27ce2592e11d44a0215707e",
+      "status": "match"
+    },
+    {
+      "document_id": "JSW_2014_annual",
+      "expected_sha256": "202c21c04ee3ee52a910588507850c15bb8d57d8cf99d6adf3c794e877a88c23",
+      "actual_sha256": "202c21c04ee3ee52a910588507850c15bb8d57d8cf99d6adf3c794e877a88c23",
+      "status": "match"
+    },
+    {
+      "document_id": "JSW_2015_annual",
+      "expected_sha256": "86f97f42d3f5b2cd4107e7c35e6705089bbad2be7680a77d192e2ca2ef910ae0",
+      "actual_sha256": "86f97f42d3f5b2cd4107e7c35e6705089bbad2be7680a77d192e2ca2ef910ae0",
+      "status": "match"
+    },
+    {
+      "document_id": "JSW_2016_annual",
+      "expected_sha256": "62d07a326a9fef493b08bef5b1e40e2cca7db645dc10ce3db4ee5a3ae7657377",
+      "actual_sha256": "62d07a326a9fef493b08bef5b1e40e2cca7db645dc10ce3db4ee5a3ae7657377",
+      "status": "match"
+    },
+    {
+      "document_id": "JYOTI_2014_annual",
+      "expected_sha256": "3223aeda9175086f9f7278d1de4edbd3db7fff0f7fa20f239f421b403af8cd24",
+      "actual_sha256": "3223aeda9175086f9f7278d1de4edbd3db7fff0f7fa20f239f421b403af8cd24",
+      "status": "match"
+    },
+    {
+      "document_id": "JYOTI_2015_annual",
+      "expected_sha256": "a8ac6db4ef29348d744e6c181258dea98d557e9b1f0935c4259f5d702a40305c",
+      "actual_sha256": "a8ac6db4ef29348d744e6c181258dea98d557e9b1f0935c4259f5d702a40305c",
+      "status": "match"
+    },
+    {
+      "document_id": "JYOTI_2016_annual",
+      "expected_sha256": "077c6643f79d74020b75b8448441b467c94f92f9644b18b6f1ab8c33b30c5906",
+      "actual_sha256": "077c6643f79d74020b75b8448441b467c94f92f9644b18b6f1ab8c33b30c5906",
+      "status": "match"
+    },
+    {
+      "document_id": "KALPATARU_2014_annual",
+      "expected_sha256": "e30ee86d3e37877572539a2d09c7d94c58be3f9605f6404edc58bec17fb50b89",
+      "actual_sha256": "e30ee86d3e37877572539a2d09c7d94c58be3f9605f6404edc58bec17fb50b89",
+      "status": "match"
+    },
+    {
+      "document_id": "KALPATARU_2015_annual",
+      "expected_sha256": "03fb1649618c2bd8689d127e6248908964e3ff6f0659e173535bbd284e327b00",
+      "actual_sha256": "03fb1649618c2bd8689d127e6248908964e3ff6f0659e173535bbd284e327b00",
+      "status": "match"
+    },
+    {
+      "document_id": "KALPATARU_2016_annual",
+      "expected_sha256": "8f358afa1c87c6ba1e5d2cc1e068280c79d333922b9b3eb0808f24127f7f52f8",
+      "actual_sha256": "8f358afa1c87c6ba1e5d2cc1e068280c79d333922b9b3eb0808f24127f7f52f8",
+      "status": "match"
+    },
+    {
+      "document_id": "KALYANI_2014_annual",
+      "expected_sha256": "728a7e53bd6fbe9b19824196f9eb8c253110b5d75fc05586e937e90da1568292",
+      "actual_sha256": "728a7e53bd6fbe9b19824196f9eb8c253110b5d75fc05586e937e90da1568292",
+      "status": "match"
+    },
+    {
+      "document_id": "KALYANI_2015_annual",
+      "expected_sha256": "dd5f3762adb138aac55a6ba3b9220fa3f8342f4ebeb89fb327da1538d2a3e106",
+      "actual_sha256": "dd5f3762adb138aac55a6ba3b9220fa3f8342f4ebeb89fb327da1538d2a3e106",
+      "status": "match"
+    },
+    {
+      "document_id": "KALYANI_2016_annual",
+      "expected_sha256": "470f177abc95779bcdd599a9ee142fdf9fc1bf6ca9fc4682030e7e7584c52a45",
+      "actual_sha256": "470f177abc95779bcdd599a9ee142fdf9fc1bf6ca9fc4682030e7e7584c52a45",
+      "status": "match"
+    },
+    {
+      "document_id": "KEC_2014_annual",
+      "expected_sha256": "3fc981bf68a332a2b21fb8d54feab2e6d74ef83537a2a57781b045c340900eec",
+      "actual_sha256": "3fc981bf68a332a2b21fb8d54feab2e6d74ef83537a2a57781b045c340900eec",
+      "status": "match"
+    },
+    {
+      "document_id": "KEC_2015_annual",
+      "expected_sha256": "05560c1e966b3f8e8c9eb0b2dd1c069deaf8082cdd3117097cfc40e3ffbd07f8",
+      "actual_sha256": "05560c1e966b3f8e8c9eb0b2dd1c069deaf8082cdd3117097cfc40e3ffbd07f8",
+      "status": "match"
+    },
+    {
+      "document_id": "KEC_2016_annual",
+      "expected_sha256": "3a7abc60f174d81a086e8afc8b10c77ca6296768f1a6eb2f776476c7bfbe1926",
+      "actual_sha256": "3a7abc60f174d81a086e8afc8b10c77ca6296768f1a6eb2f776476c7bfbe1926",
+      "status": "match"
+    },
+    {
+      "document_id": "KNR_2014_annual",
+      "expected_sha256": "94024c14884b6bc21962017344582e9ee69a33dde9e9689d3b29dd7be5fb827b",
+      "actual_sha256": "94024c14884b6bc21962017344582e9ee69a33dde9e9689d3b29dd7be5fb827b",
+      "status": "match"
+    },
+    {
+      "document_id": "KNR_2015_annual",
+      "expected_sha256": "93005572d5397beb48eedcb3c9f03edcc3093d04b07914664b68a98308ac8a8d",
+      "actual_sha256": "93005572d5397beb48eedcb3c9f03edcc3093d04b07914664b68a98308ac8a8d",
+      "status": "match"
+    },
+    {
+      "document_id": "KNR_2016_annual",
+      "expected_sha256": "0efb84fe3bbab7e233888663530a369adfda7f1b42f7b2154a677661aac55a52",
+      "actual_sha256": "0efb84fe3bbab7e233888663530a369adfda7f1b42f7b2154a677661aac55a52",
+      "status": "match"
+    },
+    {
+      "document_id": "LANCO_2014_annual",
+      "expected_sha256": "63b7f64da54a251eb00452c0dc2588a9f78021b965e288dcf331ed6725565a45",
+      "actual_sha256": "63b7f64da54a251eb00452c0dc2588a9f78021b965e288dcf331ed6725565a45",
+      "status": "match"
+    },
+    {
+      "document_id": "LANCO_2015_annual",
+      "expected_sha256": "69fdf2b128fd93c2f800669ceda0ae29a2ffb4a37f04faa4319a2abec0459a22",
+      "actual_sha256": "69fdf2b128fd93c2f800669ceda0ae29a2ffb4a37f04faa4319a2abec0459a22",
+      "status": "match"
+    },
+    {
+      "document_id": "LANCO_2016_annual",
+      "expected_sha256": "c99c2ae873bd47ebda95b46fb35709a84e60eecd3fd5b1e1001dbd9905edc828",
+      "actual_sha256": "c99c2ae873bd47ebda95b46fb35709a84e60eecd3fd5b1e1001dbd9905edc828",
+      "status": "match"
+    },
+    {
+      "document_id": "MONNET_2014_annual",
+      "expected_sha256": "b874578ed90ac38bca975d6230f5e506a7498600b316fd03e53cec620e94f061",
+      "actual_sha256": "b874578ed90ac38bca975d6230f5e506a7498600b316fd03e53cec620e94f061",
+      "status": "match"
+    },
+    {
+      "document_id": "MONNET_2015_annual",
+      "expected_sha256": "a72263e1741bb90caacc311ee429ec590aa3b354baffe5844e2e5dc47a2ccf9e",
+      "actual_sha256": "a72263e1741bb90caacc311ee429ec590aa3b354baffe5844e2e5dc47a2ccf9e",
+      "status": "match"
+    },
+    {
+      "document_id": "MONNET_2016_annual",
+      "expected_sha256": "3497396f3e28d872dea31cd49427c90aa4b6230c25d794f5a4d6b14822f22281",
+      "actual_sha256": "3497396f3e28d872dea31cd49427c90aa4b6230c25d794f5a4d6b14822f22281",
+      "status": "match"
+    },
+    {
+      "document_id": "MOTHERSON_2012_annual",
+      "expected_sha256": "ad0485acb69d50481618cf8f1bed72ef8de9f68beac91671f540c24c80655a1a",
+      "actual_sha256": "ad0485acb69d50481618cf8f1bed72ef8de9f68beac91671f540c24c80655a1a",
+      "status": "match"
+    },
+    {
+      "document_id": "MOTHERSON_2013_annual",
+      "expected_sha256": "62f8fe8ce1c218809c8f18155b4a44f52600e9b5c9c1c7f9142f58ff8ea5ab2a",
+      "actual_sha256": "62f8fe8ce1c218809c8f18155b4a44f52600e9b5c9c1c7f9142f58ff8ea5ab2a",
+      "status": "match"
+    },
+    {
+      "document_id": "MOTHERSON_2014_annual",
+      "expected_sha256": "ae3ba5b09330b20985eecf96a9a9829137c41edd13392d6cc1778a7f94a46b9e",
+      "actual_sha256": "ae3ba5b09330b20985eecf96a9a9829137c41edd13392d6cc1778a7f94a46b9e",
+      "status": "match"
+    },
+    {
+      "document_id": "MOTHERSON_2015_annual",
+      "expected_sha256": "203642e79c34dafd449318325da499d82c325267c751a70bfce84e26b41af026",
+      "actual_sha256": "203642e79c34dafd449318325da499d82c325267c751a70bfce84e26b41af026",
+      "status": "match"
+    },
+    {
+      "document_id": "MOTHERSON_2016_annual",
+      "expected_sha256": "ab1624434bb29ed82f9a9210d5d77f0c5cba0a510905ae6e0b63a83fa1450ad3",
+      "actual_sha256": "ab1624434bb29ed82f9a9210d5d77f0c5cba0a510905ae6e0b63a83fa1450ad3",
+      "status": "match"
+    },
+    {
+      "document_id": "NCC_2014_annual",
+      "expected_sha256": "1b8c8c0a8e93eb9bda154ead6797d8921de7b84396e34a0e1b0b0e55c24fb6cd",
+      "actual_sha256": "1b8c8c0a8e93eb9bda154ead6797d8921de7b84396e34a0e1b0b0e55c24fb6cd",
+      "status": "match"
+    },
+    {
+      "document_id": "NCC_2015_annual",
+      "expected_sha256": "3552cfab39f241d60137d3c12c2fd78bdc464d4b606e57c4c85c4939697bb413",
+      "actual_sha256": "3552cfab39f241d60137d3c12c2fd78bdc464d4b606e57c4c85c4939697bb413",
+      "status": "match"
+    },
+    {
+      "document_id": "NCC_2016_annual",
+      "expected_sha256": "f5644f3a67781e6252365b3fd87ae32ba8fd10f2984f1129dfe6df0ac54eda63",
+      "actual_sha256": "f5644f3a67781e6252365b3fd87ae32ba8fd10f2984f1129dfe6df0ac54eda63",
+      "status": "match"
+    },
+    {
+      "document_id": "NTPC_2014_annual",
+      "expected_sha256": "b237251a6a35622748dd3512b6e23d8a992669781cd2debc6b3287a394f4275b",
+      "actual_sha256": "b237251a6a35622748dd3512b6e23d8a992669781cd2debc6b3287a394f4275b",
+      "status": "match"
+    },
+    {
+      "document_id": "NTPC_2015_annual",
+      "expected_sha256": "11e3540385c4977621eca937f729812c7b6e6546c4dcafecae2982218d14d72d",
+      "actual_sha256": "11e3540385c4977621eca937f729812c7b6e6546c4dcafecae2982218d14d72d",
+      "status": "match"
+    },
+    {
+      "document_id": "NTPC_2016_annual",
+      "expected_sha256": "216104f47bc2c00b190a2bfcf63b8a47bcfdacba66156b914d2cd44a8a176fef",
+      "actual_sha256": "216104f47bc2c00b190a2bfcf63b8a47bcfdacba66156b914d2cd44a8a176fef",
+      "status": "match"
+    },
+    {
+      "document_id": "OBEROI_2014_annual",
+      "expected_sha256": "ab87798492534443b4ac2011951a7539e49229349ba6c2fa4f6208652c26f9f7",
+      "actual_sha256": "ab87798492534443b4ac2011951a7539e49229349ba6c2fa4f6208652c26f9f7",
+      "status": "match"
+    },
+    {
+      "document_id": "OBEROI_2015_annual",
+      "expected_sha256": "f71229aea42d022a21490e3eb1c0657269d4db357ce47479f6d672f443007ff4",
+      "actual_sha256": "f71229aea42d022a21490e3eb1c0657269d4db357ce47479f6d672f443007ff4",
+      "status": "match"
+    },
+    {
+      "document_id": "OBEROI_2016_annual",
+      "expected_sha256": "07eeaa939d8c7d617d97aca1a8422ae2b020ced37d20d67a9cfdf9e37f28dcf3",
+      "actual_sha256": "07eeaa939d8c7d617d97aca1a8422ae2b020ced37d20d67a9cfdf9e37f28dcf3",
+      "status": "match"
+    },
+    {
+      "document_id": "PNC_2015_annual",
+      "expected_sha256": "fc9687eedf422e71be68ed268445f92f2f1b3c6698b1824f3b237b852bc9bf3b",
+      "actual_sha256": "fc9687eedf422e71be68ed268445f92f2f1b3c6698b1824f3b237b852bc9bf3b",
+      "status": "match"
+    },
+    {
+      "document_id": "PNC_2016_annual",
+      "expected_sha256": "9f2fa4e2ec831894375a0569a33cea8a9b6e213d6646852b8d04090e407aa2ab",
+      "actual_sha256": "9f2fa4e2ec831894375a0569a33cea8a9b6e213d6646852b8d04090e407aa2ab",
+      "status": "match"
+    },
+    {
+      "document_id": "RATNAMANI_2014_annual",
+      "expected_sha256": "06c3d9a6ab026deb3360e2791ef62c66ddd7060468dcdc0cd2b556f16ffe6cbc",
+      "actual_sha256": "06c3d9a6ab026deb3360e2791ef62c66ddd7060468dcdc0cd2b556f16ffe6cbc",
+      "status": "match"
+    },
+    {
+      "document_id": "RATNAMANI_2015_annual",
+      "expected_sha256": "6bc9a9e155a01d2744ea252f68868025b58323f4c35fff3d41edc42c36084017",
+      "actual_sha256": "6bc9a9e155a01d2744ea252f68868025b58323f4c35fff3d41edc42c36084017",
+      "status": "match"
+    },
+    {
+      "document_id": "RATNAMANI_2016_annual",
+      "expected_sha256": "0f1dc6405b144acf5b84828792797caa58550dde9349ffa84b827188aee09790",
+      "actual_sha256": "0f1dc6405b144acf5b84828792797caa58550dde9349ffa84b827188aee09790",
+      "status": "match"
+    },
+    {
+      "document_id": "REGISTRY_2015_event",
+      "expected_sha256": "e73ffe010d99b3094ae8eff431257a1a701b5f22e6bcbecfff073645dde9acd4",
+      "actual_sha256": "e73ffe010d99b3094ae8eff431257a1a701b5f22e6bcbecfff073645dde9acd4",
+      "status": "match"
+    },
+    {
+      "document_id": "REGISTRY_2017_event",
+      "expected_sha256": "41c5b4ea861fb0501dd8a2b6b1a6ae7dc695b020428258bcf21af6283a1e404d",
+      "actual_sha256": "41c5b4ea861fb0501dd8a2b6b1a6ae7dc695b020428258bcf21af6283a1e404d",
+      "status": "match"
+    },
+    {
+      "document_id": "SADBHAV_2014_annual",
+      "expected_sha256": "55d8a310668933544aac4ad20449ac896c5e67faf4ef4da50c66ddd870f732b7",
+      "actual_sha256": "55d8a310668933544aac4ad20449ac896c5e67faf4ef4da50c66ddd870f732b7",
+      "status": "match"
+    },
+    {
+      "document_id": "SADBHAV_2015_annual",
+      "expected_sha256": "ce5657de2a0ecbb7eead57311e64bab71c0ed033713e5b02ec2378480c495d48",
+      "actual_sha256": "ce5657de2a0ecbb7eead57311e64bab71c0ed033713e5b02ec2378480c495d48",
+      "status": "match"
+    },
+    {
+      "document_id": "SADBHAV_2016_annual",
+      "expected_sha256": "2a00cb5dcf9088575421536807a3d131c048a7b1868ba2fbde7da8ecbaebe801",
+      "actual_sha256": "2a00cb5dcf9088575421536807a3d131c048a7b1868ba2fbde7da8ecbaebe801",
+      "status": "match"
+    },
+    {
+      "document_id": "SADBHAV_2017_annual",
+      "expected_sha256": "ada29f580bcbab5a5682e65e198dad7c6ac0d847f446c6280216d40d39b0f351",
+      "actual_sha256": "ada29f580bcbab5a5682e65e198dad7c6ac0d847f446c6280216d40d39b0f351",
+      "status": "match"
+    },
+    {
+      "document_id": "SAIL_2014_annual",
+      "expected_sha256": "1694e25bb61ed1ffa188cc0ea6f85c6c873159c012a2c7d124857d459003c6e8",
+      "actual_sha256": "1694e25bb61ed1ffa188cc0ea6f85c6c873159c012a2c7d124857d459003c6e8",
+      "status": "match"
+    },
+    {
+      "document_id": "SAIL_2015_annual",
+      "expected_sha256": "3007cefa98e36e7c086bd42675e1da1676ebcf387e3ec8b57d4679d2a8aa4371",
+      "actual_sha256": "3007cefa98e36e7c086bd42675e1da1676ebcf387e3ec8b57d4679d2a8aa4371",
+      "status": "match"
+    },
+    {
+      "document_id": "SAIL_2016_annual",
+      "expected_sha256": "b04098467a75c8e13c1b024805bdb0d5a557696cd0ae1eeb8dccebc94560d8d5",
+      "actual_sha256": "b04098467a75c8e13c1b024805bdb0d5a557696cd0ae1eeb8dccebc94560d8d5",
+      "status": "match"
+    },
+    {
+      "document_id": "SHOPPERS_2017_annual",
+      "expected_sha256": "b3c15d8982d324844e8678675e6b6253dc94c92be2333ada3edf8b8fb88924dd",
+      "actual_sha256": "b3c15d8982d324844e8678675e6b6253dc94c92be2333ada3edf8b8fb88924dd",
+      "status": "match"
+    },
+    {
+      "document_id": "SHOPPERS_2018_annual",
+      "expected_sha256": "b3c15d8982d324844e8678675e6b6253dc94c92be2333ada3edf8b8fb88924dd",
+      "actual_sha256": "b3c15d8982d324844e8678675e6b6253dc94c92be2333ada3edf8b8fb88924dd",
+      "status": "match"
+    },
+    {
+      "document_id": "SHOPPERS_2019_annual",
+      "expected_sha256": "7e30bc2f7d6c4513c8dc211f12e7c3d5c0b9d207de6c12bc59a6b32aa11b4a72",
+      "actual_sha256": "7e30bc2f7d6c4513c8dc211f12e7c3d5c0b9d207de6c12bc59a6b32aa11b4a72",
+      "status": "match"
+    },
+    {
+      "document_id": "SHOPPERS_2020_annual",
+      "expected_sha256": "986404e3c8d736bda5ab81afe6dcb824ee36f4b8d9f2cc5eba404e8aa4c3c4ce",
+      "actual_sha256": "986404e3c8d736bda5ab81afe6dcb824ee36f4b8d9f2cc5eba404e8aa4c3c4ce",
+      "status": "match"
+    },
+    {
+      "document_id": "SOBHA_2014_annual",
+      "expected_sha256": "d2336903934a343da52a8f0e82ff8a98aee815f4e1bb134235e9ecfd162b27b4",
+      "actual_sha256": "d2336903934a343da52a8f0e82ff8a98aee815f4e1bb134235e9ecfd162b27b4",
+      "status": "match"
+    },
+    {
+      "document_id": "SOBHA_2015_annual",
+      "expected_sha256": "39a2de5c85f19702d42dadaba60f67d70d95738ce5a089ca7e07550b148f3ec7",
+      "actual_sha256": "39a2de5c85f19702d42dadaba60f67d70d95738ce5a089ca7e07550b148f3ec7",
+      "status": "match"
+    },
+    {
+      "document_id": "SOBHA_2016_annual",
+      "expected_sha256": "c7cf91478808090feab60efd286a20a5dbe1b5a5a71a5913a35359cf475e0d2e",
+      "actual_sha256": "c7cf91478808090feab60efd286a20a5dbe1b5a5a71a5913a35359cf475e0d2e",
+      "status": "match"
+    },
+    {
+      "document_id": "SSWL_2014_annual",
+      "expected_sha256": "7bd8709d2f403383da19d7d4236d394da5b80a1cbb77ad711db3eed8c8df42fa",
+      "actual_sha256": "7bd8709d2f403383da19d7d4236d394da5b80a1cbb77ad711db3eed8c8df42fa",
+      "status": "match"
+    },
+    {
+      "document_id": "SSWL_2015_annual",
+      "expected_sha256": "0028c7a19ca741b53f7580526c71437b3b54490288a734b046a246d7b2de31ef",
+      "actual_sha256": "0028c7a19ca741b53f7580526c71437b3b54490288a734b046a246d7b2de31ef",
+      "status": "match"
+    },
+    {
+      "document_id": "SSWL_2016_annual",
+      "expected_sha256": "c92c923591843d102efc8bbbe90f03db4ee549d1eac317d6aa82dedda52c75f0",
+      "actual_sha256": "c92c923591843d102efc8bbbe90f03db4ee549d1eac317d6aa82dedda52c75f0",
+      "status": "match"
+    },
+    {
+      "document_id": "SUNDRAM_2012_annual",
+      "expected_sha256": "9b37bcc6f9386d1c5a6840c516814c144f7f0d8e0ec26f7e834ff5a10609ef39",
+      "actual_sha256": "9b37bcc6f9386d1c5a6840c516814c144f7f0d8e0ec26f7e834ff5a10609ef39",
+      "status": "match"
+    },
+    {
+      "document_id": "SUNDRAM_2013_annual",
+      "expected_sha256": "eb5ce247462abb845a97f0e793ec3b58b60b7f769535c0cc4c8b73b981fbfd19",
+      "actual_sha256": "eb5ce247462abb845a97f0e793ec3b58b60b7f769535c0cc4c8b73b981fbfd19",
+      "status": "match"
+    },
+    {
+      "document_id": "SUNDRAM_2014_annual",
+      "expected_sha256": "dac8de33fa7d7db4f2ed64cdf15893a4dacc02fb15e28526af19b7e65ee28f72",
+      "actual_sha256": "dac8de33fa7d7db4f2ed64cdf15893a4dacc02fb15e28526af19b7e65ee28f72",
+      "status": "match"
+    },
+    {
+      "document_id": "SUNDRAM_2015_annual",
+      "expected_sha256": "39b30743e6735bc1198e2031057f753d40f7b02bc1fe304888b31b269993bf9c",
+      "actual_sha256": "39b30743e6735bc1198e2031057f753d40f7b02bc1fe304888b31b269993bf9c",
+      "status": "match"
+    },
+    {
+      "document_id": "SUNDRAM_2016_annual",
+      "expected_sha256": "e68183715bd6b2571356f0f271abb1a06003b66ccc478b2df27befe650c45e88",
+      "actual_sha256": "e68183715bd6b2571356f0f271abb1a06003b66ccc478b2df27befe650c45e88",
+      "status": "match"
+    },
+    {
+      "document_id": "TATAPOWER_2014_annual",
+      "expected_sha256": "429363bc22e8e7c78c904b93e54c5da0d2f5e15088da0032136bfd856029d893",
+      "actual_sha256": "429363bc22e8e7c78c904b93e54c5da0d2f5e15088da0032136bfd856029d893",
+      "status": "match"
+    },
+    {
+      "document_id": "TATAPOWER_2015_annual",
+      "expected_sha256": "4612d2ab1b508c50d8f267216a1d6732d54b5ad9139d0b56f4a53c347b3d5342",
+      "actual_sha256": "4612d2ab1b508c50d8f267216a1d6732d54b5ad9139d0b56f4a53c347b3d5342",
+      "status": "match"
+    },
+    {
+      "document_id": "TATAPOWER_2016_annual",
+      "expected_sha256": "f96a6f96b8e601fdb830dd7471d3f9109a95662c0e94ca3a51b539630104fee5",
+      "actual_sha256": "f96a6f96b8e601fdb830dd7471d3f9109a95662c0e94ca3a51b539630104fee5",
+      "status": "match"
+    },
+    {
+      "document_id": "TATASTEEL_2014_annual",
+      "expected_sha256": "6c3820a968a577306841d86932dc2dfa9750eff23b77b478a128962403b03b0b",
+      "actual_sha256": "6c3820a968a577306841d86932dc2dfa9750eff23b77b478a128962403b03b0b",
+      "status": "match"
+    },
+    {
+      "document_id": "TATASTEEL_2015_annual",
+      "expected_sha256": "d041409518c1d88939b0f0352b47e3989afce5f5ea99094e869f9b519b351b3c",
+      "actual_sha256": "d041409518c1d88939b0f0352b47e3989afce5f5ea99094e869f9b519b351b3c",
+      "status": "match"
+    },
+    {
+      "document_id": "TATASTEEL_2016_annual",
+      "expected_sha256": "8c63f9410d925bd1b0360efaa4f196a4cf4d47292d6af2380d12de2e96757c6d",
+      "actual_sha256": "8c63f9410d925bd1b0360efaa4f196a4cf4d47292d6af2380d12de2e96757c6d",
+      "status": "match"
+    },
+    {
+      "document_id": "TECHNO_2014_annual",
+      "expected_sha256": "b429784882a7598744c367e21478e45b7242ab02e831ee7126decfed259b803e",
+      "actual_sha256": "b429784882a7598744c367e21478e45b7242ab02e831ee7126decfed259b803e",
+      "status": "match"
+    },
+    {
+      "document_id": "TECHNO_2015_annual",
+      "expected_sha256": "a08cc0b86761a781c542d2b296a75dab780d42e78eae7d2bb401a57c5a6ed916",
+      "actual_sha256": "a08cc0b86761a781c542d2b296a75dab780d42e78eae7d2bb401a57c5a6ed916",
+      "status": "match"
+    },
+    {
+      "document_id": "TECHNO_2016_annual",
+      "expected_sha256": "53744da483c28b26cde7ca98994dadaaab10f7fecc846658d24518a58c70f86d",
+      "actual_sha256": "53744da483c28b26cde7ca98994dadaaab10f7fecc846658d24518a58c70f86d",
+      "status": "match"
+    },
+    {
+      "document_id": "TRENT_2017_annual",
+      "expected_sha256": "4c2a47a219ff1266bf2d9f5b09b1ed26e92efa4438d0578c86ab798bdd0c2441",
+      "actual_sha256": "4c2a47a219ff1266bf2d9f5b09b1ed26e92efa4438d0578c86ab798bdd0c2441",
+      "status": "match"
+    },
+    {
+      "document_id": "TRENT_2018_annual",
+      "expected_sha256": "8b8ff5c96d73c560911b6c941ff32045fc0c4a8aa163ba0f8b726a41c2e5a79b",
+      "actual_sha256": "8b8ff5c96d73c560911b6c941ff32045fc0c4a8aa163ba0f8b726a41c2e5a79b",
+      "status": "match"
+    },
+    {
+      "document_id": "TRENT_2019_annual",
+      "expected_sha256": "f50877792a15b2afce41a026080e32263a18beaf8b9812db88424d0f83a66c45",
+      "actual_sha256": "f50877792a15b2afce41a026080e32263a18beaf8b9812db88424d0f83a66c45",
+      "status": "match"
+    },
+    {
+      "document_id": "TRENT_2020_annual",
+      "expected_sha256": "74270fac9c338c875256409891d98cfafb6d22d99c0e15061db951684ee891b3",
+      "actual_sha256": "74270fac9c338c875256409891d98cfafb6d22d99c0e15061db951684ee891b3",
+      "status": "match"
+    },
+    {
+      "document_id": "VARDHMAN_2012_annual",
+      "expected_sha256": "68ed4528f61c5e80cea603c81a4a132a45053446ab65e62d902e51f8b453e653",
+      "actual_sha256": "68ed4528f61c5e80cea603c81a4a132a45053446ab65e62d902e51f8b453e653",
+      "status": "match"
+    },
+    {
+      "document_id": "VARDHMAN_2013_annual",
+      "expected_sha256": "5f7309dd4d901c8db673373c62fb4a26bacc123812354335c2bb978b21023f7c",
+      "actual_sha256": "5f7309dd4d901c8db673373c62fb4a26bacc123812354335c2bb978b21023f7c",
+      "status": "match"
+    },
+    {
+      "document_id": "VARDHMAN_2014_annual",
+      "expected_sha256": "2c4eb730a097277b1e365988732009c5903aad44a54e4eb237c5d52d3659ef3b",
+      "actual_sha256": "2c4eb730a097277b1e365988732009c5903aad44a54e4eb237c5d52d3659ef3b",
+      "status": "match"
+    },
+    {
+      "document_id": "VARDHMAN_2015_annual",
+      "expected_sha256": "80c504b442cbb0209bfb29e881be45d1d55a932b4116e4991ee550ca962c4e2f",
+      "actual_sha256": "80c504b442cbb0209bfb29e881be45d1d55a932b4116e4991ee550ca962c4e2f",
+      "status": "match"
+    },
+    {
+      "document_id": "VARDHMAN_2016_annual",
+      "expected_sha256": "0a22dad9378633c9c4f635483310d1ae96faebaa70d12fe961ac081d627d2455",
+      "actual_sha256": "0a22dad9378633c9c4f635483310d1ae96faebaa70d12fe961ac081d627d2455",
+      "status": "match"
+    },
+    {
+      "document_id": "VMART_2017_annual",
+      "expected_sha256": "bfa354f251086e91c8935a6444378e502fab1c1a387ba0fd72c9feb718b81e21",
+      "actual_sha256": "bfa354f251086e91c8935a6444378e502fab1c1a387ba0fd72c9feb718b81e21",
+      "status": "match"
+    },
+    {
+      "document_id": "VMART_2018_annual",
+      "expected_sha256": "46f7bb71de1b9ece157576317dbe25dc74c1c648f45afadebb672cf9750be255",
+      "actual_sha256": "46f7bb71de1b9ece157576317dbe25dc74c1c648f45afadebb672cf9750be255",
+      "status": "match"
+    },
+    {
+      "document_id": "VMART_2019_annual",
+      "expected_sha256": "20e48ba3e2713cbc33f67d5e2320991ca4c9c7209c722f90648da35e2a66bf49",
+      "actual_sha256": "20e48ba3e2713cbc33f67d5e2320991ca4c9c7209c722f90648da35e2a66bf49",
+      "status": "match"
+    },
+    {
+      "document_id": "VMART_2020_annual",
+      "expected_sha256": "08da41845de09e102b1439280eac39629a466f2fa97acf43ce0c01379b44d732",
+      "actual_sha256": "08da41845de09e102b1439280eac39629a466f2fa97acf43ce0c01379b44d732",
+      "status": "match"
+    },
+    {
+      "document_id": "WELSPUN_2012_annual",
+      "expected_sha256": "4e62913a8863fab4f45c90c7f4ee328b232124ec02071cf61b1e4864cf850606",
+      "actual_sha256": "4e62913a8863fab4f45c90c7f4ee328b232124ec02071cf61b1e4864cf850606",
+      "status": "match"
+    },
+    {
+      "document_id": "WELSPUN_2013_annual",
+      "expected_sha256": "4666adf1a8387341132d91553b4da6b937b0f17e82f04d8cbb7fb0b7970cd2cf",
+      "actual_sha256": "4666adf1a8387341132d91553b4da6b937b0f17e82f04d8cbb7fb0b7970cd2cf",
+      "status": "match"
+    },
+    {
+      "document_id": "WELSPUN_2014_annual",
+      "expected_sha256": "ab2491a851bc18450eede91cc29d7f47c747f1f9d05848e59c64a32aeb665ef9",
+      "actual_sha256": "ab2491a851bc18450eede91cc29d7f47c747f1f9d05848e59c64a32aeb665ef9",
+      "status": "match"
+    },
+    {
+      "document_id": "WELSPUN_2015_annual",
+      "expected_sha256": "542c231245cec1ac6cd4f3c7e1ab23c9f428b29d8410609fdc4917b61250e287",
+      "actual_sha256": "542c231245cec1ac6cd4f3c7e1ab23c9f428b29d8410609fdc4917b61250e287",
+      "status": "match"
+    },
+    {
+      "document_id": "WELSPUN_2016_annual",
+      "expected_sha256": "32758aead0220afab43edb5aa57f5cbd4f93b095f548af5d7486a4b8a4b6663f",
+      "actual_sha256": "32758aead0220afab43edb5aa57f5cbd4f93b095f548af5d7486a4b8a4b6663f",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2010_annual",
+      "expected_sha256": "48890acdbda41ede8dbd17ad1f62d30a2e6fac8f85741fc2a6aeb3e6b6b43133",
+      "actual_sha256": "48890acdbda41ede8dbd17ad1f62d30a2e6fac8f85741fc2a6aeb3e6b6b43133",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2011_annual",
+      "expected_sha256": "9524866673310d731f183b6e7a2d4ba3ea00239a50f9c5e02edeb955ffb644a4",
+      "actual_sha256": "9524866673310d731f183b6e7a2d4ba3ea00239a50f9c5e02edeb955ffb644a4",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2012_annual",
+      "expected_sha256": "0c3749bf5511ac49b77c867e642bf6a0056cbed531d67db68fa6dff0ba627534",
+      "actual_sha256": "0c3749bf5511ac49b77c867e642bf6a0056cbed531d67db68fa6dff0ba627534",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2013_annual",
+      "expected_sha256": "945c1644fc4011ff608093304ae0d7bed924e107649c6487ce0ebea38f4b055e",
+      "actual_sha256": "945c1644fc4011ff608093304ae0d7bed924e107649c6487ce0ebea38f4b055e",
+      "status": "match"
+    },
+    {
+      "document_id": "JSW_2010_annual",
+      "expected_sha256": "414b374ff1f0492a3fc4248306b8e7aab7a1c88ccc2df280a584cae2c5beaed5",
+      "actual_sha256": "414b374ff1f0492a3fc4248306b8e7aab7a1c88ccc2df280a584cae2c5beaed5",
+      "status": "match"
+    },
+    {
+      "document_id": "JSW_2011_annual",
+      "expected_sha256": "bbbec9d505e8f6e528943d642a52511a6a3e2e646338cc993ea5e48e44376618",
+      "actual_sha256": "bbbec9d505e8f6e528943d642a52511a6a3e2e646338cc993ea5e48e44376618",
+      "status": "match"
+    },
+    {
+      "document_id": "JSW_2012_annual",
+      "expected_sha256": "4b8b8d1248a62934d603cd2f0dbca96d3d8a147058d651deea48f420fb4fdbfa",
+      "actual_sha256": "4b8b8d1248a62934d603cd2f0dbca96d3d8a147058d651deea48f420fb4fdbfa",
+      "status": "match"
+    },
+    {
+      "document_id": "JSW_2013_annual",
+      "expected_sha256": "5dcfdc72d3bb01996facea980e61f642df646e10c3a7a322336e4f69dc1f9b1a",
+      "actual_sha256": "5dcfdc72d3bb01996facea980e61f642df646e10c3a7a322336e4f69dc1f9b1a",
+      "status": "match"
+    },
+    {
+      "document_id": "TATASTEEL_2010_annual",
+      "expected_sha256": "7a8de7b2919ef6f0941631cd57548acac9cebc2f5a1540a223f03a211f44e36c",
+      "actual_sha256": "7a8de7b2919ef6f0941631cd57548acac9cebc2f5a1540a223f03a211f44e36c",
+      "status": "match"
+    },
+    {
+      "document_id": "TATASTEEL_2011_annual",
+      "expected_sha256": "44fe5f38b1fa8f7b0e6ef1e38770d82d45e8bc7b2fd3b1033fda58867bd504e7",
+      "actual_sha256": "44fe5f38b1fa8f7b0e6ef1e38770d82d45e8bc7b2fd3b1033fda58867bd504e7",
+      "status": "match"
+    },
+    {
+      "document_id": "TATASTEEL_2012_annual",
+      "expected_sha256": "dc0e15483617c2e785a26c800be32b6cfd74339495025866b9b31573a40229a4",
+      "actual_sha256": "dc0e15483617c2e785a26c800be32b6cfd74339495025866b9b31573a40229a4",
+      "status": "match"
+    },
+    {
+      "document_id": "TATASTEEL_2013_annual",
+      "expected_sha256": "dc2b4e104edc2f451db0901f90fdfd3d6353f487d07b97a17e69a42a1571e544",
+      "actual_sha256": "dc2b4e104edc2f451db0901f90fdfd3d6353f487d07b97a17e69a42a1571e544",
+      "status": "match"
+    },
+    {
+      "document_id": "SAIL_2010_annual",
+      "expected_sha256": "327f7d50d261f60fadd16375e0f768c3e2b62a8e65a46bc74b1e5f989629bc15",
+      "actual_sha256": "327f7d50d261f60fadd16375e0f768c3e2b62a8e65a46bc74b1e5f989629bc15",
+      "status": "match"
+    },
+    {
+      "document_id": "SAIL_2011_annual",
+      "expected_sha256": "08c7f73f5bc4e6a9b8ae5429e12fa18abfba25ff95ea5d5d1849482ed75e9e70",
+      "actual_sha256": "08c7f73f5bc4e6a9b8ae5429e12fa18abfba25ff95ea5d5d1849482ed75e9e70",
+      "status": "match"
+    },
+    {
+      "document_id": "SAIL_2012_annual",
+      "expected_sha256": "c6ba62ff7cbe486c032cdcbc949413dd2186b7c629ee3b834cd3dff7a7a42c40",
+      "actual_sha256": "c6ba62ff7cbe486c032cdcbc949413dd2186b7c629ee3b834cd3dff7a7a42c40",
+      "status": "match"
+    },
+    {
+      "document_id": "SAIL_2013_annual",
+      "expected_sha256": "a9701e25b8eb90be41ccb4b1beabc3ec6141b6202dabf716974162c9b17cb71c",
+      "actual_sha256": "a9701e25b8eb90be41ccb4b1beabc3ec6141b6202dabf716974162c9b17cb71c",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2018_sebi_order",
+      "expected_sha256": "120adca5d9dd94a13d9971f6d1355e83d5685e2a62cf23a8f22ff6ef24e54488",
+      "actual_sha256": "120adca5d9dd94a13d9971f6d1355e83d5685e2a62cf23a8f22ff6ef24e54488",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2014_aug_rating",
+      "expected_sha256": "0c8c62ee67f7098b2a57f9d16a2b655a0ae789a2cfe488df158429102a228de7",
+      "actual_sha256": "0c8c62ee67f7098b2a57f9d16a2b655a0ae789a2cfe488df158429102a228de7",
+      "status": "match"
+    },
+    {
+      "document_id": "AXIS_2014_sep_defaults",
+      "expected_sha256": "c84ac008a804eb001787ee031cd1681dc79da66519bace09a2a8b1158277d76f",
+      "actual_sha256": "c84ac008a804eb001787ee031cd1681dc79da66519bace09a2a8b1158277d76f",
+      "status": "match"
+    },
+    {
+      "document_id": "AXIS_2015_halfyear_defaults",
+      "expected_sha256": "4e9d88af82f16d48acb64d8c4e8218d8b357adca78f704b78b6df3b3a3c21049",
+      "actual_sha256": "4e9d88af82f16d48acb64d8c4e8218d8b357adca78f704b78b6df3b3a3c21049",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2013_rating",
+      "expected_sha256": "beb8f03e03401674ed2b17c18e6f45d76f779df9cc29de32695afb2d799830c4",
+      "actual_sha256": "beb8f03e03401674ed2b17c18e6f45d76f779df9cc29de32695afb2d799830c4",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2012_draft_offer",
+      "expected_sha256": "098e15601c8f76213201cd72c906f9bea66eef75761e760820466a9c8ca453eb",
+      "actual_sha256": "098e15601c8f76213201cd72c906f9bea66eef75761e760820466a9c8ca453eb",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2013_final_offer",
+      "expected_sha256": "c537a41273da7d568e42fae42220a4903d1324c0e74888432ef37cdf6fd5c5b3",
+      "actual_sha256": "c537a41273da7d568e42fae42220a4903d1324c0e74888432ef37cdf6fd5c5b3",
+      "status": "match"
+    },
+    {
+      "document_id": "AXIS_2013_dec_noncompliance",
+      "expected_sha256": "b8baac6541511d1c2f12dff0a49388f4f37538fa364ae2b4faa73b906b1f1c6f",
+      "actual_sha256": "b8baac6541511d1c2f12dff0a49388f4f37538fa364ae2b4faa73b906b1f1c6f",
+      "status": "match"
+    },
+    {
+      "document_id": "AXIS_2014_feb_compliance",
+      "expected_sha256": "59f5150e5f5a38b5f287b586882587ec729f6fd8ee096f4dd0576a84c068431b",
+      "actual_sha256": "59f5150e5f5a38b5f287b586882587ec729f6fd8ee096f4dd0576a84c068431b",
+      "status": "match"
+    },
+    {
+      "document_id": "SEBI_2020_offer_processing",
+      "expected_sha256": "aec046f9fb2c931a6dae0413f516cee16ff7006f4ad505ff44dbb0169ea6866e",
+      "actual_sha256": "aec046f9fb2c931a6dae0413f516cee16ff7006f4ad505ff44dbb0169ea6866e",
+      "status": "match"
+    },
+    {
+      "document_id": "BHUSHAN_2018_plan_order",
+      "expected_sha256": "eccaaa6b1649c9aa0604dc83297c40120c14effac2b70b6c7e3c99b2f667ba2f",
+      "actual_sha256": "eccaaa6b1649c9aa0604dc83297c40120c14effac2b70b6c7e3c99b2f667ba2f",
+      "status": "match"
+    }
+  ],
+  "status": "pass"
+}

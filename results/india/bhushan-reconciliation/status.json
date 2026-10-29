@@ -1,0 +1,27 @@
+{
+  "status": "public_evidence_reconciled_with_explicit_remaining_gaps",
+  "original_issuers_reviewed": 4,
+  "original_records": 4,
+  "source_fields_reviewed": 99,
+  "gross_balance_checks_passed": 4,
+  "comparison_rows": 42,
+  "earliest_documented_payment_failure": "2013-12-31",
+  "earliest_documented_programme_size_crore": 500,
+  "actual_cure_date": null,
+  "cure_reporting_status": "reported_paid_in_2014_02_26_status_notice_indexed_source",
+  "first_default_status": "earliest_documented_not_exhaustively_established",
+  "regulator_filing_date_verified": "2012-02-22",
+  "exact_historical_public_timestamps_verified": 0,
+  "cutoff_4q_for_documented_event": "2012-12-31",
+  "cutoff_8q_for_documented_event": "2011-12-31",
+  "primary_scores_emitted": 0,
+  "primary_recall_4q": null,
+  "primary_recall_8q": null,
+  "unresolved": [
+    "Original bank coupon/settlement receipts and ISIN-to-programme mapping are not publicly verified.",
+    "Earlier bank or debt-instrument failures have not been exhaustively excluded.",
+    "Jan/Feb2014noncompliancePDFs were reviewed through indexed primary excerpts; direct downloads were rejected.",
+    "Original FY2011current/noncurrent mappings, revenue/finance definitions and full earned reserves remain incomplete.",
+    "Exact publication of each original financial version before relevant cutoff remains unverified."
+  ]
+}

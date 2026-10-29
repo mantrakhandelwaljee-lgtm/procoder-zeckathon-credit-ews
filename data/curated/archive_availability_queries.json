@@ -1,0 +1,191 @@
+[
+  {
+    "query_file": "BHUSHAN-archive.json",
+    "result": {
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500055/5000550311.pdf",
+      "archived_snapshots": {},
+      "timestamp": "20111231"
+    }
+  },
+  {
+    "query_file": "BHUSHAN_draft_http_new-archive.json",
+    "result": {
+      "url": "http://www.sebi.gov.in/sebi_data/attachdocs/1330081238429.pdf",
+      "archived_snapshots": {},
+      "timestamp": "20120630"
+    }
+  },
+  {
+    "query_file": "BHUSHAN_draft_offer_current-archive.json",
+    "result": {
+      "query_id": "BHUSHAN_draft_offer_current",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1330081238429.pdf",
+      "requested_timestamp": "20111231",
+      "http_status": 200,
+      "response": {
+        "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1330081238429.pdf",
+        "archived_snapshots": {},
+        "timestamp": "20111231"
+      }
+    }
+  },
+  {
+    "query_file": "SAIL-archive.json",
+    "result": {
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500113/5001130311.pdf",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20201019214638/https://www.bseindia.com/bseplus/annualreport/500113/5001130311.pdf",
+          "timestamp": "20201019214638"
+        }
+      },
+      "timestamp": "20111231"
+    }
+  },
+  {
+    "query_file": "TATA_original_consolidated-archive.json",
+    "result": {
+      "query_id": "TATA_original_consolidated",
+      "url": "http://www.tatasteel.com/investors/annual-report-2010-11/html/pdfs/consolidated-financial-statements.pdf",
+      "requested_timestamp": "20111231",
+      "http_status": 200,
+      "response": {
+        "url": "http://www.tatasteel.com/investors/annual-report-2010-11/html/pdfs/consolidated-financial-statements.pdf",
+        "archived_snapshots": {
+          "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20150824081653/http://www.tatasteel.com:80/investors/annual-report-2010-11/html/pdfs/consolidated-financial-statements.pdf",
+            "timestamp": "20150824081653"
+          }
+        },
+        "timestamp": "20111231"
+      }
+    }
+  },
+  {
+    "query_file": "JSW-archive.json",
+    "result": {
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500228/5002280311.pdf",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20210814092402/https://www.bseindia.com/bseplus/AnnualReport/500228/5002280311.pdf",
+          "timestamp": "20210814092402"
+        }
+      },
+      "timestamp": "20111231"
+    }
+  },
+  {
+    "query_file": "TATA_original_full_report-archive.json",
+    "result": {
+      "query_id": "TATA_original_full_report",
+      "url": "http://www.tatasteel.com/investors/annual-report-2010-11/Annual%20Report%202010-11.pdf",
+      "requested_timestamp": "20111231",
+      "http_status": 200,
+      "response": {
+        "url": "http://www.tatasteel.com/investors/annual-report-2010-11/Annual%20Report%202010-11.pdf",
+        "archived_snapshots": {},
+        "timestamp": "20111231"
+      }
+    }
+  },
+  {
+    "query_file": "TATA_original_report_index-archive.json",
+    "result": {
+      "query_id": "TATA_original_report_index",
+      "url": "http://www.tatasteel.com/investors/annual-report-2010-11/html/financials.html",
+      "requested_timestamp": "20111231",
+      "http_status": 200,
+      "response": {
+        "url": "http://www.tatasteel.com/investors/annual-report-2010-11/html/financials.html",
+        "archived_snapshots": {
+          "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20120503003207/http://www.tatasteel.com/investors/annual-report-2010-11/html/financials.html",
+            "timestamp": "20120503003207"
+          }
+        },
+        "timestamp": "20111231"
+      }
+    }
+  },
+  {
+    "query_file": "TATA_https_index-archive.json",
+    "result": {
+      "url": "https://www.tatasteel.com/investors/annual-report-2010-11/html/financials.html",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20120503003207/http://www.tatasteel.com/investors/annual-report-2010-11/html/financials.html",
+          "timestamp": "20120503003207"
+        }
+      },
+      "timestamp": "20120630"
+    }
+  },
+  {
+    "query_file": "TATASTEEL-archive.json",
+    "result": {
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500470/5004700311.pdf",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20190525182212/https://www.bseindia.com/bseplus/annualreport/500470/5004700311.pdf",
+          "timestamp": "20190525182212"
+        }
+      },
+      "timestamp": "20111231"
+    }
+  },
+  {
+    "query_file": "BHUSHAN_draft_offer_historical-archive.json",
+    "result": {
+      "query_id": "BHUSHAN_draft_offer_historical",
+      "url": "http://www.sebi.gov.in/cms/sebi_data/attachdocs/1330081238429.pdf",
+      "requested_timestamp": "20111231",
+      "http_status": 200,
+      "response": {
+        "url": "http://www.sebi.gov.in/cms/sebi_data/attachdocs/1330081238429.pdf",
+        "archived_snapshots": {},
+        "timestamp": "20111231"
+      }
+    }
+  },
+  {
+    "query_file": "BHUSHAN_draft_https_old-archive.json",
+    "result": {
+      "url": "https://www.sebi.gov.in/cms/sebi_data/attachdocs/1330081238429.pdf",
+      "archived_snapshots": {},
+      "timestamp": "20120630"
+    }
+  },
+  {
+    "query_file": "BHUSHAN_NSE_draft_offer-archive.json",
+    "result": {
+      "query_id": "BHUSHAN_NSE_draft_offer",
+      "url": "http://www.nseindia.com/content/equities/Bhushan_dfa_rights.pdf",
+      "requested_timestamp": "20111231",
+      "http_status": 200,
+      "response": {
+        "url": "http://www.nseindia.com/content/equities/Bhushan_dfa_rights.pdf",
+        "archived_snapshots": {
+          "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20140122220627/http://nseindia.com/content/equities/Bhushan_dfa_rights.pdf",
+            "timestamp": "20140122220627"
+          }
+        },
+        "timestamp": "20111231"
+      }
+    }
+  }
+]

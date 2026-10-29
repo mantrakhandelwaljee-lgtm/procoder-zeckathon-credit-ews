@@ -1,0 +1,164 @@
+[
+  {
+    "document_id": "BHUSHAN_2010_annual",
+    "expected": "48890acdbda41ede8dbd17ad1f62d30a2e6fac8f85741fc2a6aeb3e6b6b43133",
+    "actual": "48890acdbda41ede8dbd17ad1f62d30a2e6fac8f85741fc2a6aeb3e6b6b43133",
+    "status": "match"
+  },
+  {
+    "document_id": "BHUSHAN_2011_annual",
+    "expected": "9524866673310d731f183b6e7a2d4ba3ea00239a50f9c5e02edeb955ffb644a4",
+    "actual": "9524866673310d731f183b6e7a2d4ba3ea00239a50f9c5e02edeb955ffb644a4",
+    "status": "match"
+  },
+  {
+    "document_id": "BHUSHAN_2012_annual",
+    "expected": "0c3749bf5511ac49b77c867e642bf6a0056cbed531d67db68fa6dff0ba627534",
+    "actual": "0c3749bf5511ac49b77c867e642bf6a0056cbed531d67db68fa6dff0ba627534",
+    "status": "match"
+  },
+  {
+    "document_id": "BHUSHAN_2013_annual",
+    "expected": "945c1644fc4011ff608093304ae0d7bed924e107649c6487ce0ebea38f4b055e",
+    "actual": "945c1644fc4011ff608093304ae0d7bed924e107649c6487ce0ebea38f4b055e",
+    "status": "match"
+  },
+  {
+    "document_id": "JSW_2010_annual",
+    "expected": "414b374ff1f0492a3fc4248306b8e7aab7a1c88ccc2df280a584cae2c5beaed5",
+    "actual": "414b374ff1f0492a3fc4248306b8e7aab7a1c88ccc2df280a584cae2c5beaed5",
+    "status": "match"
+  },
+  {
+    "document_id": "JSW_2011_annual",
+    "expected": "bbbec9d505e8f6e528943d642a52511a6a3e2e646338cc993ea5e48e44376618",
+    "actual": "bbbec9d505e8f6e528943d642a52511a6a3e2e646338cc993ea5e48e44376618",
+    "status": "match"
+  },
+  {
+    "document_id": "JSW_2012_annual",
+    "expected": "4b8b8d1248a62934d603cd2f0dbca96d3d8a147058d651deea48f420fb4fdbfa",
+    "actual": "4b8b8d1248a62934d603cd2f0dbca96d3d8a147058d651deea48f420fb4fdbfa",
+    "status": "match"
+  },
+  {
+    "document_id": "JSW_2013_annual",
+    "expected": "5dcfdc72d3bb01996facea980e61f642df646e10c3a7a322336e4f69dc1f9b1a",
+    "actual": "5dcfdc72d3bb01996facea980e61f642df646e10c3a7a322336e4f69dc1f9b1a",
+    "status": "match"
+  },
+  {
+    "document_id": "TATASTEEL_2010_annual",
+    "expected": "7a8de7b2919ef6f0941631cd57548acac9cebc2f5a1540a223f03a211f44e36c",
+    "actual": "7a8de7b2919ef6f0941631cd57548acac9cebc2f5a1540a223f03a211f44e36c",
+    "status": "match"
+  },
+  {
+    "document_id": "TATASTEEL_2011_annual",
+    "expected": "44fe5f38b1fa8f7b0e6ef1e38770d82d45e8bc7b2fd3b1033fda58867bd504e7",
+    "actual": "44fe5f38b1fa8f7b0e6ef1e38770d82d45e8bc7b2fd3b1033fda58867bd504e7",
+    "status": "match"
+  },
+  {
+    "document_id": "TATASTEEL_2012_annual",
+    "expected": "dc0e15483617c2e785a26c800be32b6cfd74339495025866b9b31573a40229a4",
+    "actual": "dc0e15483617c2e785a26c800be32b6cfd74339495025866b9b31573a40229a4",
+    "status": "match"
+  },
+  {
+    "document_id": "TATASTEEL_2013_annual",
+    "expected": "dc2b4e104edc2f451db0901f90fdfd3d6353f487d07b97a17e69a42a1571e544",
+    "actual": "dc2b4e104edc2f451db0901f90fdfd3d6353f487d07b97a17e69a42a1571e544",
+    "status": "match"
+  },
+  {
+    "document_id": "SAIL_2010_annual",
+    "expected": "327f7d50d261f60fadd16375e0f768c3e2b62a8e65a46bc74b1e5f989629bc15",
+    "actual": "327f7d50d261f60fadd16375e0f768c3e2b62a8e65a46bc74b1e5f989629bc15",
+    "status": "match"
+  },
+  {
+    "document_id": "SAIL_2011_annual",
+    "expected": "08c7f73f5bc4e6a9b8ae5429e12fa18abfba25ff95ea5d5d1849482ed75e9e70",
+    "actual": "08c7f73f5bc4e6a9b8ae5429e12fa18abfba25ff95ea5d5d1849482ed75e9e70",
+    "status": "match"
+  },
+  {
+    "document_id": "SAIL_2012_annual",
+    "expected": "c6ba62ff7cbe486c032cdcbc949413dd2186b7c629ee3b834cd3dff7a7a42c40",
+    "actual": "c6ba62ff7cbe486c032cdcbc949413dd2186b7c629ee3b834cd3dff7a7a42c40",
+    "status": "match"
+  },
+  {
+    "document_id": "SAIL_2013_annual",
+    "expected": "a9701e25b8eb90be41ccb4b1beabc3ec6141b6202dabf716974162c9b17cb71c",
+    "actual": "a9701e25b8eb90be41ccb4b1beabc3ec6141b6202dabf716974162c9b17cb71c",
+    "status": "match"
+  },
+  {
+    "document_id": "BHUSHAN_2018_sebi_order",
+    "expected": "120adca5d9dd94a13d9971f6d1355e83d5685e2a62cf23a8f22ff6ef24e54488",
+    "actual": "120adca5d9dd94a13d9971f6d1355e83d5685e2a62cf23a8f22ff6ef24e54488",
+    "status": "match"
+  },
+  {
+    "document_id": "BHUSHAN_2014_aug_rating",
+    "expected": "0c8c62ee67f7098b2a57f9d16a2b655a0ae789a2cfe488df158429102a228de7",
+    "actual": "0c8c62ee67f7098b2a57f9d16a2b655a0ae789a2cfe488df158429102a228de7",
+    "status": "match"
+  },
+  {
+    "document_id": "AXIS_2014_sep_defaults",
+    "expected": "c84ac008a804eb001787ee031cd1681dc79da66519bace09a2a8b1158277d76f",
+    "actual": "c84ac008a804eb001787ee031cd1681dc79da66519bace09a2a8b1158277d76f",
+    "status": "match"
+  },
+  {
+    "document_id": "AXIS_2015_halfyear_defaults",
+    "expected": "4e9d88af82f16d48acb64d8c4e8218d8b357adca78f704b78b6df3b3a3c21049",
+    "actual": "4e9d88af82f16d48acb64d8c4e8218d8b357adca78f704b78b6df3b3a3c21049",
+    "status": "match"
+  },
+  {
+    "document_id": "BHUSHAN_2013_rating",
+    "expected": "beb8f03e03401674ed2b17c18e6f45d76f779df9cc29de32695afb2d799830c4",
+    "actual": "beb8f03e03401674ed2b17c18e6f45d76f779df9cc29de32695afb2d799830c4",
+    "status": "match"
+  },
+  {
+    "document_id": "BHUSHAN_2012_draft_offer",
+    "expected": "098e15601c8f76213201cd72c906f9bea66eef75761e760820466a9c8ca453eb",
+    "actual": "098e15601c8f76213201cd72c906f9bea66eef75761e760820466a9c8ca453eb",
+    "status": "match"
+  },
+  {
+    "document_id": "BHUSHAN_2013_final_offer",
+    "expected": "c537a41273da7d568e42fae42220a4903d1324c0e74888432ef37cdf6fd5c5b3",
+    "actual": "c537a41273da7d568e42fae42220a4903d1324c0e74888432ef37cdf6fd5c5b3",
+    "status": "match"
+  },
+  {
+    "document_id": "AXIS_2013_dec_noncompliance",
+    "expected": "b8baac6541511d1c2f12dff0a49388f4f37538fa364ae2b4faa73b906b1f1c6f",
+    "actual": "b8baac6541511d1c2f12dff0a49388f4f37538fa364ae2b4faa73b906b1f1c6f",
+    "status": "match"
+  },
+  {
+    "document_id": "AXIS_2014_feb_compliance",
+    "expected": "59f5150e5f5a38b5f287b586882587ec729f6fd8ee096f4dd0576a84c068431b",
+    "actual": "59f5150e5f5a38b5f287b586882587ec729f6fd8ee096f4dd0576a84c068431b",
+    "status": "match"
+  },
+  {
+    "document_id": "SEBI_2020_offer_processing",
+    "expected": "aec046f9fb2c931a6dae0413f516cee16ff7006f4ad505ff44dbb0169ea6866e",
+    "actual": "aec046f9fb2c931a6dae0413f516cee16ff7006f4ad505ff44dbb0169ea6866e",
+    "status": "match"
+  },
+  {
+    "document_id": "BHUSHAN_2018_plan_order",
+    "expected": "eccaaa6b1649c9aa0604dc83297c40120c14effac2b70b6c7e3c99b2f667ba2f",
+    "actual": "eccaaa6b1649c9aa0604dc83297c40120c14effac2b70b6c7e3c99b2f667ba2f",
+    "status": "match"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "entity_id": "IRB",
+    "field": "current_liabilities",
+    "reason": "A wrapped trade-payables label interrupted the generic subtotal parser; manually read balance-sheet subtotal."
+  },
+  {
+    "entity_id": "SADBHAV",
+    "field": "receivables",
+    "reason": "Generic extraction matched long-term trade receivables first. Use the current trade receivables line for the deployed ratio."
+  },
+  {
+    "entity_id": "ASHOKA",
+    "field": "profit_before_tax",
+    "reason": "Use PBT after exceptional items, not the earlier subtotal."
+  },
+  {
+    "entity_id": "IRB",
+    "field": "net_income",
+    "reason": "Pilot consistently uses profit attributable to parent owners, not total group profit including minority."
+  },
+  {
+    "entity_id": "JINDALSTEL",
+    "field": "control_eligibility",
+    "reason": "Removed from proposed control pool after finding default evidence; replaced by a provisional Kalyani Steels match."
+  },
+  {
+    "entity_id": "HCC",
+    "field": "control_eligibility",
+    "reason": "SEBI order confirms a continuing default rating from February 2012; removed from controls. Source: https://nsearchives.nseindia.com/corporate/RPOWER_20062024203635_RPower_DisclosureReg30_SEBIOrdersigned.pdf"
+  },
+  {
+    "entity_id": "PNC",
+    "field": "control_eligibility",
+    "reason": "2015 IPO does not cover earlier required cutoffs; replaced provisionally by an issuer listed before those cutoffs."
+  },
+  {
+    "entity_id": "ALOK",
+    "field": "period_months",
+    "reason": "FY2012-13 and FY2013-15 are 18-month periods. Never treat their flow ratios as ordinary 12-month observations."
+  }
+]

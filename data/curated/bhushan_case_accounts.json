@@ -1,0 +1,458 @@
+[
+  {
+    "entity_id": "BHUSHAN",
+    "period_end": "2012-03-31",
+    "period_months": 12,
+    "basis": "consolidated",
+    "source_document_id": "BHUSHAN_2012_annual",
+    "source_report_year": 2012,
+    "source_column": "current",
+    "source_unit": "INR lakh",
+    "normalized_unit": "INR crore",
+    "public_available_at": null,
+    "publication_status": "unverified",
+    "verification_status": "numeric_reviewed_mapping_pending",
+    "retained_earnings_definition": "core_earned_reserve_proxy_not_certified_full_retained_earnings",
+    "mapping_notes": "Consolidated parent shareholders funds include reported preference capital. Preference application money and minority interest are separate equity-like items, excluded from liabilities. Retained-earnings core proxy = general reserve + debenture-redemption reserve + P&L surplus; special reserve 59.59 lakh origin unresolved and excluded. CFO PDF92; PPE excludes intangibles and CWIP. Net revenue includes other operating revenue, net of excise.",
+    "source_pages": {
+      "balance": [
+        90
+      ],
+      "profit_loss": [
+        91
+      ],
+      "reserves": [
+        100
+      ]
+    },
+    "assumed_available_by": "2012-09-24",
+    "availability_evidence_document_id": "BHUSHAN_2013_annual",
+    "availability_evidence_page": 42,
+    "availability_assumption": "annual report circulated no later than documented AGM; sensitivity only; historical public timestamp unverified",
+    "total_assets": 33724.181899999996,
+    "noncurrent_liabilities": 18073.6967,
+    "current_liabilities": 7605.592900000001,
+    "equity": 7572.725799999999,
+    "other_equity": 472.16650000000004,
+    "current_assets": 5553.383100000001,
+    "inventory": 3311.4260999999997,
+    "receivables": 1220.3763000000001,
+    "sales": 9961.1741,
+    "net_income": 1014.8308000000001,
+    "profit_before_tax": 1354.6127999999999,
+    "finance_costs": 1046.3781,
+    "retained_earnings": 4542.964,
+    "long_term_debt": 15528.780200000001,
+    "ppe": 15732.735200000001,
+    "depreciation": 619.9328,
+    "cfo": 2739.3877,
+    "capital_work_in_progress": 9217.2642,
+    "total_liabilities": 25679.2896,
+    "ebit": 2400.9909
+  },
+  {
+    "entity_id": "BHUSHAN",
+    "period_end": "2011-03-31",
+    "period_months": 12,
+    "basis": "consolidated",
+    "source_document_id": "BHUSHAN_2012_annual",
+    "source_report_year": 2012,
+    "source_column": "comparative",
+    "source_unit": "INR lakh",
+    "normalized_unit": "INR crore",
+    "public_available_at": null,
+    "publication_status": "unverified",
+    "verification_status": "numeric_reviewed_mapping_pending",
+    "retained_earnings_definition": "core_earned_reserve_proxy_not_certified_full_retained_earnings",
+    "mapping_notes": "Consolidated parent shareholders funds include reported preference capital. Preference application money and minority interest are separate equity-like items, excluded from liabilities. Retained-earnings core proxy = general reserve + debenture-redemption reserve + P&L surplus; special reserve 59.59 lakh origin unresolved and excluded. CFO PDF92; PPE excludes intangibles and CWIP. Net revenue includes other operating revenue, net of excise.",
+    "source_pages": {
+      "balance": [
+        90
+      ],
+      "profit_loss": [
+        91
+      ],
+      "reserves": [
+        100
+      ]
+    },
+    "assumed_available_by": "2012-09-24",
+    "availability_evidence_document_id": "BHUSHAN_2013_annual",
+    "availability_evidence_page": 42,
+    "availability_assumption": "annual report circulated no later than documented AGM; sensitivity only; historical public timestamp unverified",
+    "total_assets": 25325.799,
+    "noncurrent_liabilities": 12288.171100000001,
+    "current_liabilities": 7108.5473,
+    "equity": 5908.4556,
+    "other_equity": 20.625,
+    "current_assets": 4393.4813,
+    "inventory": 3186.1788,
+    "receivables": 490.0421,
+    "sales": 7003.5363,
+    "net_income": 1007.3946000000001,
+    "profit_before_tax": 1375.7002,
+    "finance_costs": 447.7074,
+    "retained_earnings": 3561.7041,
+    "long_term_debt": 10969.3445,
+    "ppe": 12566.0327,
+    "depreciation": 277.8591,
+    "cfo": 994.1986999999999,
+    "capital_work_in_progress": 5441.4333,
+    "total_liabilities": 19396.7184,
+    "ebit": 1823.4076
+  },
+  {
+    "entity_id": "JSW",
+    "period_end": "2012-03-31",
+    "period_months": 12,
+    "basis": "consolidated",
+    "source_document_id": "JSW_2012_annual",
+    "source_report_year": 2012,
+    "source_column": "current",
+    "source_unit": "INR crore",
+    "normalized_unit": "INR crore",
+    "public_available_at": null,
+    "publication_status": "unverified",
+    "verification_status": "numeric_reviewed_mapping_pending",
+    "retained_earnings_definition": "core_earned_reserve_proxy_not_certified_full_retained_earnings",
+    "mapping_notes": "Parent shareholders funds include reported preference capital and FY2011 warrant money; minority interest excluded from liabilities. Earned-reserve core proxy = general reserve + debenture-redemption reserve + P&L surplus, excluding capital reserve, premium, hedging, translation and options reserves. Net profit includes reported associates and exceptional effects. EBIT proxy = reported PBT after exceptional items + P&L finance costs.",
+    "source_pages": {
+      "balance": [
+        142
+      ],
+      "profit_loss": [
+        143
+      ],
+      "reserves": [
+        150,
+        151
+      ]
+    },
+    "assumed_available_by": "2012-07-25",
+    "availability_evidence_document_id": "JSW_2013_annual",
+    "availability_evidence_page": 89,
+    "availability_assumption": "annual report circulated no later than documented AGM; sensitivity only; historical public timestamp unverified",
+    "total_assets": 54229.52,
+    "noncurrent_liabilities": 16437.55,
+    "current_liabilities": 20824.73,
+    "equity": 16749.57,
+    "other_equity": 217.67,
+    "current_assets": 12766.71,
+    "inventory": 5789.26,
+    "receivables": 1539.39,
+    "sales": 34368.05,
+    "net_income": 537.68,
+    "profit_before_tax": 1993.35,
+    "finance_costs": 1427.3,
+    "retained_earnings": 9878.170000000002,
+    "long_term_debt": 12889.12,
+    "ppe": 32529.26,
+    "depreciation": 1933.15,
+    "capital_work_in_progress": 2801.83,
+    "total_liabilities": 37262.28,
+    "ebit": 3420.6499999999996
+  },
+  {
+    "entity_id": "JSW",
+    "period_end": "2011-03-31",
+    "period_months": 12,
+    "basis": "consolidated",
+    "source_document_id": "JSW_2012_annual",
+    "source_report_year": 2012,
+    "source_column": "comparative",
+    "source_unit": "INR crore",
+    "normalized_unit": "INR crore",
+    "public_available_at": null,
+    "publication_status": "unverified",
+    "verification_status": "numeric_reviewed_mapping_pending",
+    "retained_earnings_definition": "core_earned_reserve_proxy_not_certified_full_retained_earnings",
+    "mapping_notes": "Parent shareholders funds include reported preference capital and FY2011 warrant money; minority interest excluded from liabilities. Earned-reserve core proxy = general reserve + debenture-redemption reserve + P&L surplus, excluding capital reserve, premium, hedging, translation and options reserves. Net profit includes reported associates and exceptional effects. EBIT proxy = reported PBT after exceptional items + P&L finance costs.",
+    "source_pages": {
+      "balance": [
+        142
+      ],
+      "profit_loss": [
+        143
+      ],
+      "reserves": [
+        150,
+        151
+      ]
+    },
+    "assumed_available_by": "2012-07-25",
+    "availability_evidence_document_id": "JSW_2013_annual",
+    "availability_evidence_page": 89,
+    "availability_assumption": "annual report circulated no later than documented AGM; sensitivity only; historical public timestamp unverified",
+    "total_assets": 46164.48,
+    "noncurrent_liabilities": 14455.9,
+    "current_liabilities": 14957.4,
+    "equity": 16529.33,
+    "other_equity": 221.85,
+    "current_assets": 8852.45,
+    "inventory": 4409.7,
+    "receivables": 933.35,
+    "sales": 24105.89,
+    "net_income": 1753.98,
+    "profit_before_tax": 2437.9,
+    "finance_costs": 1060.26,
+    "retained_earnings": 9567.41,
+    "long_term_debt": 11334.85,
+    "ppe": 25790.76,
+    "depreciation": 1559.71,
+    "capital_work_in_progress": 5982.52,
+    "total_liabilities": 29413.3,
+    "ebit": 3498.16
+  },
+  {
+    "entity_id": "TATASTEEL",
+    "period_end": "2012-03-31",
+    "period_months": 12,
+    "basis": "consolidated",
+    "source_document_id": "TATASTEEL_2012_annual",
+    "source_report_year": 2012,
+    "source_column": "current",
+    "source_unit": "INR crore",
+    "normalized_unit": "INR crore",
+    "public_available_at": null,
+    "publication_status": "unverified",
+    "verification_status": "numeric_reviewed_mapping_pending",
+    "retained_earnings_definition": "core_earned_reserve_proxy_not_certified_full_retained_earnings",
+    "mapping_notes": "X8 equity uses reported parent shareholders funds; separately presented hybrid perpetual securities, subsidiary preference shares/warrants and minority interest are excluded from liabilities but not added to X8 numerator. This convention needs mapping approval and a sensitivity alternative. Earned-reserve core proxy = general reserve + debenture-redemption reserve + P&L surplus. Smaller special/statutory/redemption/other reserves and OCI excluded pending origin review; not total reserves. Reported final profit is used without reinterpreting minority row signs. Global operations are a material matching limitation.",
+    "source_pages": {
+      "balance": [
+        192
+      ],
+      "profit_loss": [
+        193
+      ],
+      "reserves": [
+        209,
+        210
+      ]
+    },
+    "assumed_available_by": "2012-08-14",
+    "availability_evidence_document_id": "TATASTEEL_2013_annual",
+    "availability_evidence_page": 93,
+    "availability_assumption": "annual report circulated no later than documented AGM; sensitivity only; historical public timestamp unverified",
+    "total_assets": 147240.16,
+    "noncurrent_liabilities": 53265.02,
+    "current_liabilities": 47547.98,
+    "equity": 43021.12,
+    "other_equity": 3406.04,
+    "current_assets": 56577.9,
+    "inventory": 25598.0,
+    "receivables": 14878.48,
+    "sales": 132899.7,
+    "net_income": 5389.77,
+    "profit_before_tax": 8584.98,
+    "finance_costs": 4250.11,
+    "retained_earnings": 27985.309999999998,
+    "long_term_debt": 45238.24,
+    "ppe": 39080.93,
+    "depreciation": 4516.65,
+    "capital_work_in_progress": 20039.71,
+    "total_liabilities": 100813.0,
+    "ebit": 12835.09
+  },
+  {
+    "entity_id": "TATASTEEL",
+    "period_end": "2011-03-31",
+    "period_months": 12,
+    "basis": "consolidated",
+    "source_document_id": "TATASTEEL_2012_annual",
+    "source_report_year": 2012,
+    "source_column": "comparative",
+    "source_unit": "INR crore",
+    "normalized_unit": "INR crore",
+    "public_available_at": null,
+    "publication_status": "unverified",
+    "verification_status": "numeric_reviewed_mapping_pending",
+    "retained_earnings_definition": "core_earned_reserve_proxy_not_certified_full_retained_earnings",
+    "mapping_notes": "X8 equity uses reported parent shareholders funds; separately presented hybrid perpetual securities, subsidiary preference shares/warrants and minority interest are excluded from liabilities but not added to X8 numerator. This convention needs mapping approval and a sensitivity alternative. Earned-reserve core proxy = general reserve + debenture-redemption reserve + P&L surplus. Smaller special/statutory/redemption/other reserves and OCI excluded pending origin review; not total reserves. Reported final profit is used without reinterpreting minority row signs. Global operations are a material matching limitation.",
+    "source_pages": {
+      "balance": [
+        192
+      ],
+      "profit_loss": [
+        193
+      ],
+      "reserves": [
+        209,
+        210
+      ]
+    },
+    "assumed_available_by": "2012-08-14",
+    "availability_evidence_document_id": "TATASTEEL_2013_annual",
+    "availability_evidence_page": 93,
+    "availability_assumption": "annual report circulated no later than documented AGM; sensitivity only; historical public timestamp unverified",
+    "total_assets": 135488.23,
+    "noncurrent_liabilities": 56869.57,
+    "current_liabilities": 40648.39,
+    "equity": 35563.91,
+    "other_equity": 2406.36,
+    "current_assets": 56488.96,
+    "inventory": 24055.24,
+    "receivables": 14811.92,
+    "sales": 118753.12,
+    "net_income": 8982.69,
+    "profit_before_tax": 12101.95,
+    "finance_costs": 3955.78,
+    "retained_earnings": 24107.78,
+    "long_term_debt": 49250.69,
+    "ppe": 34778.13,
+    "depreciation": 4414.82,
+    "capital_work_in_progress": 13550.83,
+    "total_liabilities": 97517.95999999999,
+    "ebit": 16057.730000000001
+  },
+  {
+    "entity_id": "SAIL",
+    "period_end": "2012-03-31",
+    "period_months": 12,
+    "basis": "consolidated",
+    "source_document_id": "SAIL_2012_annual",
+    "source_report_year": 2012,
+    "source_column": "current",
+    "source_unit": "INR crore",
+    "normalized_unit": "INR crore",
+    "public_available_at": null,
+    "publication_status": "unverified",
+    "verification_status": "numeric_reviewed_mapping_pending",
+    "retained_earnings_definition": "core_earned_reserve_proxy_not_certified_full_retained_earnings",
+    "mapping_notes": "Current asset/liability categories summed because no current subtotal printed. Share-application money and minority interest excluded from liabilities. Earned-reserve core proxy = general reserve + bond-redemption reserve + P&L surplus; award fund/capital reserves/premium excluded. General reserve contains a 0.09 crore amalgamation adjustment, retained in proxy and explicitly unresolved. State ownership and size affect control comparability. EBIT follows PBT + P&L finance-cost convention; exceptional exchange-interest item not added again.",
+    "source_pages": {
+      "balance": [
+        93
+      ],
+      "profit_loss": [
+        94
+      ],
+      "reserves": [
+        99
+      ]
+    },
+    "assumed_available_by": "2012-09-21",
+    "availability_evidence_document_id": "SAIL_2013_annual",
+    "availability_evidence_page": 83,
+    "availability_assumption": "annual report circulated no later than documented AGM; sensitivity only; historical public timestamp unverified",
+    "total_assets": 78495.61,
+    "noncurrent_liabilities": 18892.43,
+    "current_liabilities": 19330.02,
+    "equity": 40270.84,
+    "other_equity": 2.32,
+    "current_assets": 29137.969999999998,
+    "inventory": 13898.93,
+    "receivables": 4847.81,
+    "sales": 46658.16,
+    "net_income": 3593.09,
+    "profit_before_tax": 5282.61,
+    "finance_costs": 778.17,
+    "retained_earnings": 35792.2,
+    "long_term_debt": 12398.25,
+    "ppe": 17344.22,
+    "depreciation": 1685.9,
+    "capital_work_in_progress": 28315.67,
+    "total_liabilities": 38222.45,
+    "ebit": 6060.78
+  },
+  {
+    "entity_id": "SAIL",
+    "period_end": "2011-03-31",
+    "period_months": 12,
+    "basis": "consolidated",
+    "source_document_id": "SAIL_2012_annual",
+    "source_report_year": 2012,
+    "source_column": "comparative",
+    "source_unit": "INR crore",
+    "normalized_unit": "INR crore",
+    "public_available_at": null,
+    "publication_status": "unverified",
+    "verification_status": "numeric_reviewed_mapping_pending",
+    "retained_earnings_definition": "core_earned_reserve_proxy_not_certified_full_retained_earnings",
+    "mapping_notes": "Current asset/liability categories summed because no current subtotal printed. Share-application money and minority interest excluded from liabilities. Earned-reserve core proxy = general reserve + bond-redemption reserve + P&L surplus; award fund/capital reserves/premium excluded. General reserve contains a 0.09 crore amalgamation adjustment, retained in proxy and explicitly unresolved. State ownership and size affect control comparability. EBIT follows PBT + P&L finance-cost convention; exceptional exchange-interest item not added again.",
+    "source_pages": {
+      "balance": [
+        93
+      ],
+      "profit_loss": [
+        94
+      ],
+      "reserves": [
+        99
+      ]
+    },
+    "assumed_available_by": "2012-09-21",
+    "availability_evidence_document_id": "SAIL_2013_annual",
+    "availability_evidence_page": 83,
+    "availability_assumption": "annual report circulated no later than documented AGM; sensitivity only; historical public timestamp unverified",
+    "total_assets": 78097.15,
+    "noncurrent_liabilities": 15955.859999999999,
+    "current_liabilities": 24527.43,
+    "equity": 37600.880000000005,
+    "other_equity": 12.979999999999999,
+    "current_assets": 37141.67999999999,
+    "inventory": 11506.88,
+    "receivables": 4079.94,
+    "sales": 43399.39,
+    "net_income": 5013.91,
+    "profit_before_tax": 7383.57,
+    "finance_costs": 572.36,
+    "retained_earnings": 33168.42,
+    "long_term_debt": 9970.86,
+    "ppe": 15232.13,
+    "depreciation": 1602.96,
+    "capital_work_in_progress": 22421.99,
+    "total_liabilities": 40483.29,
+    "ebit": 7955.929999999999
+  },
+  {
+    "entity_id": "BHUSHAN",
+    "period_end": "2013-03-31",
+    "period_months": 12,
+    "basis": "consolidated",
+    "source_document_id": "BHUSHAN_2013_annual",
+    "source_report_year": 2013,
+    "source_column": "current",
+    "source_unit": "INR lakh",
+    "normalized_unit": "INR crore",
+    "public_available_at": null,
+    "publication_status": "unverified",
+    "verification_status": "numeric_reviewed_mapping_pending",
+    "retained_earnings_definition": "core_earned_reserve_proxy_not_certified_full_retained_earnings",
+    "mapping_notes": "Consolidated parent shareholders funds include reported preference capital. Preference application money and minority interest are separate equity-like items, excluded from liabilities. Retained-earnings core proxy = general reserve + debenture-redemption reserve + P&L surplus; special reserve 59.62 lakh origin unresolved and excluded. CFO PDF92; PPE excludes intangibles and CWIP. Net revenue includes other operating revenue, net of excise.",
+    "source_pages": {
+      "balance": [
+        90
+      ],
+      "profit_loss": [
+        91
+      ],
+      "reserves": [
+        100
+      ]
+    },
+    "assumed_available_by": null,
+    "availability_evidence_document_id": "BHUSHAN_2013_annual",
+    "availability_evidence_page": 43,
+    "availability_assumption": "FY2013 report lists scheduled AGM only; no assumed historical availability assigned.",
+    "total_assets": 43539.882699999995,
+    "noncurrent_liabilities": 25191.835499999997,
+    "current_liabilities": 9045.731600000001,
+    "equity": 9226.339399999999,
+    "other_equity": 75.9762,
+    "current_assets": 9619.7498,
+    "inventory": 5559.6755,
+    "receivables": 2343.1097,
+    "sales": 10744.269699999999,
+    "net_income": 906.941,
+    "profit_before_tax": 1209.4463,
+    "finance_costs": 1287.4468,
+    "retained_earnings": 5423.4717,
+    "long_term_debt": 21664.212799999998,
+    "ppe": 18147.6721,
+    "depreciation": 830.8619,
+    "capital_work_in_progress": 12848.1225,
+    "total_liabilities": 34237.5671,
+    "ebit": 2496.8931000000002
+  }
+]

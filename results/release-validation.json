@@ -1,0 +1,24 @@
+{
+  "validated_at_utc": "2026-10-29T05:50:35.984726+00:00",
+  "tests": 64,
+  "failures_or_errors": 0,
+  "executed_notebook_code_cells": 10,
+  "notebook_errors": 0,
+  "benchmark_artifacts_unchanged": true,
+  "benchmark_sha256": {
+    "results/benchmark/baselines.json": "b05f3e98d590cc618a61be42f7f569480fc730fb404f7efb9d833de81cbd9192",
+    "results/benchmark/benchmark-validation.png": "985428945bb228a987b4cc58ef77efc7b8557247ee6299dbf3f94cac640b187c",
+    "results/benchmark/development_comparison.json": "bb7735d9cfdc9e61579d5a98f27474398dd91d41b7a4d5348a69f503eb94a103",
+    "results/benchmark/development_oof_predictions.csv": "078c3b893976d914213b05e8f72d4aea6cdd1cb742fd801cc524c3e930f3d5d7",
+    "results/benchmark/development_policy_curve.csv": "a670cf51632f00222f0f18ee00e0b9b90141bbb9216927d1332aa0d6d853627a",
+    "results/benchmark/explanation_model.joblib": "0c43d84a3e36729cc9750f66df55e73d16a86355bbdfc7b3960ccc77382d1fdc",
+    "results/benchmark/frozen_split.csv": "41879c7ea6dc068f9dff56939f24e797d2a35e8757672e635f6a131ff887f779",
+    "results/benchmark/holdout_predictions.csv": "2afd7c5cb201de46b773ce464ff074906446a9ad2cb0ae2bee6ae0a10d9267f0",
+    "results/benchmark/metrics.json": "3a753d0b3823cb2fbd8a43d257a23b00ebeb027098b24647e5441b373fa70dea",
+    "results/benchmark/model.joblib": "3d2f186e3100c811d5766d1c6235888be9f35732487453288b47008c9b3145ba",
+    "results/benchmark/training_feature_ranges.csv": "5118fd3c67dd7b687bcdb5dec353e96298c2c71f75222d4df1518ff117ce2584"
+  },
+  "source_hash_matches_at_release": 196,
+  "uncached_sources_at_release": 0,
+  "note": "Release-time evidence. Each normal run refreshes results/source-integrity.json for its own cache."
+}

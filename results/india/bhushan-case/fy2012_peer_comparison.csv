@@ -1,0 +1,5 @@
+entity_id,period_end,source_document_id,source_column,score,altman_z_double_prime_proxy,formal_alert,primary_eligible,descriptive_rank
+BHUSHAN,2012-03-31,BHUSHAN_2012_annual,current,0.05910932796129537,0.8280294608426002,False,False,1
+JSW,2012-03-31,JSW_2012_annual,current,0.05417492565445583,0.5149268578407477,False,False,2
+TATASTEEL,2012-03-31,TATASTEEL_2012_annual,current,0.024554322827625374,2.0557937209166988,False,False,3
+SAIL,2012-03-31,SAIL_2012_annual,current,0.01682616897763112,3.9312844410198124,False,False,4
