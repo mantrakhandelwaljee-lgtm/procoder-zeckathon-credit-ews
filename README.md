@@ -1,4 +1,8 @@
-# Zeckathon submission - Problem Statement 02
+# procoder | Zeckathon Problem Statement 02
+
+**Team:** procoder  
+**Members:** Mantra Khandelwal, Mohit Peshwani, Om Kumar, Omkar Mainkar  
+**Repository:** https://github.com/mantrakhandelwaljee-lgtm/procoder-zeckathon-credit-ews
 
 Read [the solution report](submission/Zeckathon_Credit_EWS_Report.pdf) or its [editable Markdown version](submission/Zeckathon_Credit_EWS_Report.md). Status: benchmark and pipeline implemented; Indian historical evaluation remains incomplete. This repository begins with a truthful snapshot of the existing work; the initial commit is not a reconstruction of earlier development history.
 

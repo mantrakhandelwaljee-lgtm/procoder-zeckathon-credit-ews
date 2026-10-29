@@ -2,7 +2,21 @@
 
 Zeckathon | Problem Statement 02 | Research implementation and results
 
+Team: procoder
+
+Members: Mantra Khandelwal, Mohit Peshwani, Om Kumar, Omkar Mainkar
+
+Repository: https://github.com/mantrakhandelwaljee-lgtm/procoder-zeckathon-credit-ews
+
 ## Corporate Credit Early-Warning System
+
+### Team procoder
+
+Mantra Khandelwal | Mohit Peshwani | Om Kumar | Omkar Mainkar
+
+### Repository
+
+https://github.com/mantrakhandelwaljee-lgtm/procoder-zeckathon-credit-ews
 
 ### Purpose
 
